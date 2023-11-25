@@ -1,0 +1,30 @@
+[
+	{
+		"name": "Date",
+		"type": "date",
+		"label": "Agreement Date",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Entity-name",
+		"type": "text",
+		"label": "Unincorporated Nonprofit Association Name",
+		"placeholder": "ACME DAO",
+		"value": "ACME DAO"
+	},
+	{
+		"name": "Purpose-url",
+		"type": "url",
+		"label": "URL Containing UNA Purpose",
+		"placeholder": "https://acme.xyz/",
+		"value": "https://acme.xyz/"
+	},
+	{
+		"name": "Contract-address",
+		"type": "text",
+		"label": "Governing Smart Contract's Address",
+		"placeholder": "0x0000000000000000000000000000000000000000",
+		"value": "0x0000000000000000000000000000000000000000",
+		"pattern": "^0x[a-fA-F0-9]{40}$"
+	}
+]

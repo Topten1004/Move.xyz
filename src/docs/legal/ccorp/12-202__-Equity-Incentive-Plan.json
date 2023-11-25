@@ -1,0 +1,23 @@
+[
+	{
+		"name": "Entity-name",
+		"type": "text",
+		"label": "Corporation's Name (ALL CAPS)",
+		"placeholder": "ACME CORPORATION",
+		"value": "ACME CORPORATION"
+	},
+	{
+		"name": "Share-amount",
+		"type": "number",
+		"label": "Maximum Number of Shares Sold Under the Plan",
+		"placeholder": "100",
+		"value": "100"
+	},
+	{
+		"name": "Plan-year",
+		"type": "number",
+		"label": "Year of the Plan",
+		"placeholder": "2023",
+		"value": "2023"
+	}
+]

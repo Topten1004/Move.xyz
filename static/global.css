@@ -1,0 +1,245 @@
+.light {
+	--background-l0: #ffffff;
+	--background-l1: #0000000c;
+	--background-l2: #f3f1ec;
+	--background-disabled: #00000018;
+	--background-success: #0f8534;
+	--background-warn: #bf7c08;
+	--background-failure: #ff4524;
+	--background-brand-primary: #e83a00;
+	--background-brand-secondary: #f5f4ef;
+	--background-action-primary: #eeece3;
+	--background-action-secondary: #32c8db44;
+	--background-action-highlight: #3dd1e4;
+	--text-primary: #000000ee;
+	--text-secondary: #ffffff;
+	--text-tertiary: #00000055;
+	--text-placeholder: #00000055;
+	--text-disabled: #00000044;
+	--text-success: #0f8534;
+	--text-warn: #bf7c08;
+	--text-failure: #ff4524;
+	--text-header: #e83a00;
+	--text-action-primary: #18b4c7;
+	--text-action-secondary: #18b4c7;
+	--text-action-tertiary: #7fcec9;
+	--text-action-highlight: #25c4d8;
+	--text-brand-primary: #e83a00;
+	--text-brand-secondary: #ffecbb;
+	--text-over-brand-primary: #fff;
+	--text-over-brand-secondary: #000;
+	--text-over-action-primary: #fff;
+	--text-over-action-secondary: #18b4c7;
+	--text-over-action-highlight: #000000ee;
+	--text-over-success: #fff;
+	--text-over-warn: #fff;
+	--text-over-failure: #fff;
+	--text-over-disabled: #00000055;
+	--icon-primary: #000000ee;
+	--icon-secondary: #00000099;
+	--icon-tertiary: #00000055;
+	--icon-disabled: #00000044;
+	--icon-success: #0f8534;
+	--icon-warn: #bf7c08;
+	--icon-failure: #ff4524;
+	--icon-action-primary: #18b4c7;
+	--icon-action-secondary: #18b4c7;
+	--icon-brand-primary: #e83a00;
+	--icon-brand-secondary: #ffecbb;
+	--icon-over-brand-primary: #fff;
+	--icon-over-brand-secondary: #000;
+	--icon-over-action-primary: #fff;
+	--icon-over-action-secondary: #18b4c7;
+	--icon-over-action-highlight: #25c4d8;
+	--icon-over-success: #fff;
+	--icon-over-warn: #fff;
+	--icon-over-failure: #fff;
+	--icon-over-disabled: #00000055;
+	--stroke-primary: #00000048;
+	--stroke-secondary: #00000032;
+	--stroke-tertiary: #00000018;
+	--stroke-success: #0f8534;
+	--stroke-warn: #bf7c08;
+	--stroke-failure: #ff4524;
+	--stroke-disabled: #00000018;
+	--stroke-action-primary: #18b4c7;
+	--stroke-action-secondary: #32c8db44;
+	--stroke-action-highlight: #3dd1e4;
+	--boxShadow-primary: rgba(0, 0, 0, 0.1);
+	--radius-xs: 1px;
+	--radius-sm: 1px;
+	--radius-md: 1px;
+	--radius-lg: 1px;
+	--radius-xl: 1px;
+	--background-player-active: #cde5e7;
+	--background-player-cover: #fbf9f6;
+	--stroke-player-primary: #7fcec9;
+	overflow: auto;
+}
+
+.dark {
+	--background-l0: #1b1b1d;
+	--background-l1: #e1e0e822;
+	--background-l2: #494361;
+	--background-disabled: #e1e0e844;
+	--background-success: #a0f3ba;
+	--background-warn: #fcdc9c;
+	--background-failure: #FF9B8;
+	--background-brand-primary: #fd9d27;
+	--background-brand-secondary: #242526;
+	--background-action-primary: #2b2d2e;
+	--background-action-secondary: #32c8db22;
+	--background-action-highlight: #38e9ff;
+	--text-primary: #e1e0e8;
+	--text-secondary: #1b1b1d;
+	--text-tertiary: #e1e0e8a4;
+	--text-placeholder: #e1e0e844;
+	--text-disabled: #e1e0e8a4;
+	--text-success: #a0f3ba;
+	--text-warn: #fcdc9c;
+	--text-failure: #FF9B8;
+	--text-header: #fd9d27;
+	--text-action-primary: #32c8db;
+	--text-action-secondary: #32c8db;
+	--text-action-highlight: #38e9ff;
+	--text-brand-primary: #fd9d27;
+	--text-brand-secondary: #ffecbb;
+	--text-over-brand-primary: #fff;
+	--text-over-brand-secondary: #000;
+	--text-over-action-primary: #1c1b21;
+	--text-over-action-secondary: #e1e0e8;
+	--text-over-action-highlight: #1c1b21;
+	--text-over-success: #fff;
+	--text-over-warn: #fff;
+	--text-over-failure: #fff;
+	--text-over-disabled: #e1e0e8a4;
+	--icon-primary: #e1e0e8;
+	--icon-secondary: #e1e0e8d8;
+	--icon-tertiary: #e1e0e8a4;
+	--icon-disabled: #e1e0e8a4;
+	--icon-success: #a0f3ba;
+	--icon-warn: #fcdc9c;
+	--icon-failure: #FF9B8;
+	--icon-action-primary: #32c8db;
+	--icon-action-secondary: #32c8db;
+	--icon-brand-primary: #e83a00;
+	--icon-brand-secondary: #ffecbb;
+	--icon-over-brand-primary: #fff;
+	--icon-over-brand-secondary: #000;
+	--icon-over-action-primary: #fff;
+	--icon-over-action-secondary: #32c8db;
+	--icon-over-action-highlight: #1c1b21;
+	--icon-over-success: #fff;
+	--icon-over-warn: #fff;
+	--icon-over-failure: #fff;
+	--icon-over-disabled: #e1e0e8a4;
+	--stroke-primary: #e1e0e8d8;
+	--stroke-secondary: #e1e0e8a4;
+	--stroke-tertiary: #e1e0e844;
+	--stroke-success: #a0f3ba;
+	--stroke-warn: #fcdc9c;
+	--stroke-failure: #FF9B8;
+	--stroke-disabled: #e1e0e824;
+	--stroke-action-primary: #32c8db;
+	--stroke-action-secondary: #e1e0e844;
+	--stroke-action-highlight: #38e9ff;
+	--boxShadow-primary: #000000;
+	--radius-xs: 1px;
+	--radius-sm: 1px;
+	--radius-md: 1px;
+	--radius-lg: 1px;
+	--radius-xl: 1px;
+	overflow: auto;
+}
+
+/* load local font tff */
+@font-face {
+	font-family: 'Iosevka';
+	font-style: normal;
+	font-weight: 400;
+	src: url('/fonts/Iosevka/Iosevka\ Medium\ Nerd\ Font\ Complete\ Mono.ttf') format('truetype');
+}
+body {
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Isevka', monospace;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	color: var(--text-primary);
+	background: var(--background-l0);
+	overflow: hidden;
+}
+
+a,
+button,
+code,
+div,
+p {
+	font-family: 'Iosevka', monospace;
+	color: var(--text-primary);
+}
+
+img {
+	max-width: 100%;
+}
+
+/* Table styles */
+/* Center tables for demo */
+table {
+	margin: 0 auto;
+	width: 100%;
+}
+
+/* Default Table Style */
+table {
+	color: var(--text-primary);
+	background: var(--background-l2);
+	border: 1px solid var(--stroke-secondary);
+	font-size: 12pt;
+	border-collapse: collapse;
+}
+table thead th,
+table tfoot th {
+	color: var(--text-tertiary);
+	background: var(--background-l1);
+}
+table caption {
+	padding: 0.5em;
+}
+table th,
+table td {
+	padding: 0.5em;
+	border: 1px solid lightgrey;
+}
+/* Zebra Table Style */
+[data-table-theme*='zebra'] tbody tr:nth-of-type(odd) {
+	background: rgba(0, 0, 0, 0.05);
+}
+[data-table-theme*='zebra'][data-table-theme*='dark'] tbody tr:nth-of-type(odd) {
+	background: rgba(255, 255, 255, 0.05);
+}
+/* Dark Style */
+[data-table-theme*='dark'] {
+	color: #ddd;
+	background: #333;
+	font-size: 12pt;
+	border-collapse: collapse;
+}
+[data-table-theme*='dark'] thead th,
+[data-table-theme*='dark'] tfoot th {
+	color: #aaa;
+	background: rgba(0255, 255, 255, 0.15);
+}
+[data-table-theme*='dark'] caption {
+	padding: 0.5em;
+}
+[data-table-theme*='dark'] th,
+[data-table-theme*='dark'] td {
+	padding: 0.5em;
+	border: 1px solid grey;
+}
+code {
+    color: #c7254e;
+    background-color: #f9f2f4;
+    border-radius: 4px;
+}

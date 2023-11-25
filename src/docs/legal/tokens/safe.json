@@ -1,0 +1,107 @@
+[
+	{
+		"name": "Date",
+		"type": "date",
+		"label": "Agreement's Date",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Entity-name",
+		"type": "text",
+		"label": "Your Entity's Name",
+		"placeholder": "Acme LLC",
+		"value": "Acme LLC"
+	},
+	{
+		"name": "Entity-signer-name",
+		"type": "text",
+		"label": "Your Entity Representative's Full Name",
+		"placeholder": "Mrs. Jane Doe",
+		"value": "Mrs. Jane Doe"
+	},
+	{
+		"name": "Entity-signer-role",
+		"type": "text",
+		"label": "Your Entity Representative's Role",
+		"placeholder": "Secretary",
+		"value": "Secretary"
+	},
+	{
+		"name": "Entity-address",
+		"type": "text",
+		"label": "Your Entity's Street Address",
+		"placeholder": "123 Main Street, Apt. 45",
+		"value": "123 Main Street, Apt. 45"
+	},
+	{
+		"name": "Entity-city",
+		"type": "text",
+		"label": "Your Entity's City",
+		"placeholder": "Kalamazoo",
+		"value": "Kalamazoo"
+	},
+	{
+		"name": "Entity-state",
+		"type": "text",
+		"label": "Your Entity's State",
+		"placeholder": "Michigan",
+		"value": "Michigan"
+	},
+	{
+		"name": "Entity-zip",
+		"type": "text",
+		"label": "Your Entity's ZIP Code",
+		"placeholder": "49001",
+		"value": "49001"
+	},
+	{
+		"name": "Entity-type",
+		"type": "text",
+		"label": "Your Entity's Type",
+		"placeholder": "Limited Liability Corporation",
+		"value": "Limited Liability Corporation"
+	},
+	{
+		"name": "Entity-url",
+		"type": "url",
+		"label": "Entity's Website URL (Where This Agreement is Available)",
+		"placeholder": "https://acme-corporation.xyz",
+		"value": "https://acme-corporation.xyz"
+	},
+	{
+		"name": "Service-provider-equity-percentage",
+		"type": "number",
+		"label": "Service Provider's Equity Percentage",
+		"placeholder": "10",
+		"value": "10"
+	},
+	{
+		"name": "Safe-equity-percentage",
+		"type": "number",
+		"label": "Safe Equity Percentage",
+		"placeholder": "5",
+		"value": "5"
+	},
+	{
+		"name": "Contract-address",
+		"type": "text",
+		"label": "Token Smart Contract Address",
+		"placeholder": "0x3abf2a4f8452ccc2cf7b4c1e4663147600646f66",
+		"value": "0x3abf2a4f8452ccc2cf7b4c1e4663147600646f66",
+		"pattern": "^0x[a-fA-F0-9]{40}$"
+	},
+	{
+		"name": "Investor-entity-name",
+		"type": "text",
+		"label": "Investor Entity's Name",
+		"placeholder": "Acme Investments LLC",
+		"value": "Acme Investments LLC"
+	},
+	{
+		"name": "Investor-name",
+		"type": "text",
+		"label": "Investor's Full Name",
+		"placeholder": "Mr. John Doe",
+		"value": "Mr. John Doe"
+	}
+]

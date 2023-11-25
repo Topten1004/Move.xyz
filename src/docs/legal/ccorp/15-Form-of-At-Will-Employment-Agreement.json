@@ -1,0 +1,42 @@
+[
+	{
+		"name": "Date",
+		"type": "date",
+		"label": "Agreement Date",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Entity-name",
+		"type": "text",
+		"label": "Corporation's Name (ALL CAPS)",
+		"placeholder": "ACME CORPORATION",
+		"value": "ACME CORPORATION"
+	},
+	{
+		"name": "Date-prior",
+		"type": "date",
+		"label": "Date Prior Engagement Began",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Employee-name",
+		"type": "text",
+		"label": "Employee's Full Name",
+		"placeholder": "Ms. Jane Doe",
+		"value": "Ms. Jane Doe"
+	},
+	{
+		"name": "Witness-name",
+		"type": "text",
+		"label": "Witness' Full Name",
+		"placeholder": "Mr. John Doe",
+		"value": "Mr. John Doe"
+	},
+	{
+		"name": "Employee-address",
+		"type": "text",
+		"label": "Employee's Address",
+		"placeholder": "123 Main Street, Apt. 45",
+		"value": "123 Main Street, Apt. 45"
+	}
+]

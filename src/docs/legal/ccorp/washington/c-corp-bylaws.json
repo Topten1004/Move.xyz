@@ -1,0 +1,22 @@
+[
+	{
+		"name": "Entity-name",
+		"type": "text",
+		"label": "Corporation's Name (ALL CAPS)",
+		"placeholder": "ACME CORPORATION",
+		"value": "ACME CORPORATION"
+	},
+	{
+		"name": "Date",
+		"type": "date",
+		"label": "Agreement Adoption Date",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "President-name",
+		"type": "text",
+		"label": "Corporation President's Name",
+		"placeholder": "Ms. Jane Doe",
+		"value": "Ms. Jane Doe"
+	}
+]

@@ -1,0 +1,78 @@
+[
+	{
+		"name": "Date",
+		"type": "date",
+		"label": "Agreement Date",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Entity-name",
+		"type": "text",
+		"label": "Hiring Entity's Name",
+		"placeholder": "Acme LLC",
+		"value": "Acme LLC"
+	},
+	{
+		"name": "Entity-type",
+		"type": "text",
+		"label": "Hiring Entity's Type",
+		"placeholder": "Limited Liability Corporation",
+		"value": "Limited Liability Corporation"
+	},
+	{
+		"name": "Entity-contact-name",
+		"type": "text",
+		"label": "Hiring Entity Contact's name",
+		"placeholder": "Mr. John Smith",
+		"value": "Mr. John Smith"
+	},
+	{
+		"name": "Entity-address",
+		"type": "text",
+		"label": "Hiring Entity's Street Address",
+		"placeholder": "123 Main Street, Apt. 45",
+		"value": "123 Main Street, Apt. 45"
+	},
+	{
+		"name": "Entity-city",
+		"type": "text",
+		"label": "Hiring Entity's City",
+		"placeholder": "Kalamazoo",
+		"value": "Kalamazoo"
+	},
+	{
+		"name": "Entity-state",
+		"type": "text",
+		"label": "Hiring Entity's State",
+		"placeholder": "Michigan",
+		"value": "Michigan"
+	},
+	{
+		"name": "Entity-zip",
+		"type": "text",
+		"label": "Hiring Entity's ZIP Code",
+		"placeholder": "49001",
+		"value": "49001"
+	},
+	{
+		"name": "Entity-contact-email",
+		"type": "text",
+		"label": "Hiring Entity Contact's Email Address",
+		"placeholder": "wile@coyote.com",
+		"value": "wile@coyote.com"
+	},
+	{
+		"name": "Consultant-name",
+		"type": "text",
+		"label": "Consultant's Full Name",
+		"placeholder": "Mrs. Jane Doe",
+		"value": "Mrs. Jane Doe"
+	},
+	{
+		"name": "Consultant-email",
+		"type": "text",
+		"label": "Consultant's Email Address",
+		"placeholder": "road@runner.org",
+		"value": "road@runner.org"
+	}
+]

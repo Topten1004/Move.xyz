@@ -1,0 +1,118 @@
+Arguments: 
+  /Users/mark.phillips/.nvm/versions/node/v18.3.0/bin/node /Users/mark.phillips/.nvm/versions/node/v18.3.0/bin/yarn
+
+PATH: 
+  /opt/homebrew/sbin:/Users/mark.phillips/.nvm/versions/node/v18.3.0/bin:/Applications/Visual Studio Code.app/Contents/Resources/app/bin:/Users/mark.phillips/Developer/.dotfiles:/Users/mark.phillips/Developer/go/bin:/Users/mark.phillips/imagick-scripts/bin:/Users/mark.phillips/.foundry/bin:/Users/mark.phillips/.config/yarn/global/node_modules/.bin:/Users/mark.phillips/.yarn/bin:/Users/mark.phillips/bin:/opt/homebrew/opt/openjdk/bin:/opt/homebrew/bin:/usr/local/opt/ncurses/bin:/usr/local/bin:/Users/mark.phillips/.nvm/versions/node/v18.3.0/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/TeX/texbin:/opt/homebrew/sbin:/Users/mark.phillips/.nvm/versions/node/v18.3.0/bin:/Applications/Visual Studio Code.app/Contents/Resources/app/bin:/Users/mark.phillips/Developer/.dotfiles:/Users/mark.phillips/Developer/go/bin:/Users/mark.phillips/imagick-scripts/bin:/Users/mark.phillips/.foundry/bin:/Users/mark.phillips/.config/yarn/global/node_modules/.bin:/Users/mark.phillips/.yarn/bin:/Users/mark.phillips/bin:/opt/homebrew/opt/openjdk/bin:/opt/homebrew/bin:/usr/local/opt/ncurses/bin:/opt/homebrew/opt/fzf/bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  18.3.0
+
+Platform: 
+  darwin arm64
+
+Trace: 
+  Error: ENOENT: no such file or directory, copyfile '/Users/mark.phillips/Library/Caches/Yarn/v6/npm-estraverse-4.3.0-398ad3f3c5a24948be7725e83d11a7de28cdbd1d-integrity/node_modules/estraverse/LICENSE.BSD' -> '/Users/mark.phillips/Developer/juicebox/daolabs-legal-documents-daolabs-wtf/node_modules/@typescript-eslint/utils/node_modules/estraverse/LICENSE.BSD'
+
+npm manifest: 
+  {
+  	"name": "daolabs-docs",
+  	"version": "0.0.1",
+  	"private": true,
+  	"lint-staged": {
+  		"*.{ts,svelte}": "pnpm run lint:fix",
+  		"*.{html,json}": "prettier --write"
+  	},
+  	"scripts": {
+  		"dev": "pnpm prepare && vite dev",
+  		"build": "pnpm prepare && vite build && pnpm ipfs-404",
+  		"preview": "vite preview",
+  		"changelog": "auto-changelog --template .changelog-template.hbs",
+  		"test": "playwright test",
+  		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
+  		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch",
+  		"lint": "eslint --cache \"src/**/*.{ts,svelte}\"",
+  		"lint:fix": "eslint --cache --fix",
+  		"format": "prettier --write .",
+  		"prepare": "sh scripts/prepare.sh && husky install .husky",
+  		"ipfs-404": "./scripts/ipfs-404.sh",
+  		"precommit": "pretty-quick --staged"
+  	},
+  	"devDependencies": {
+  		"@babel/core": "^7.19.3",
+  		"@commitlint/cli": "^17.2.0",
+  		"@commitlint/config-conventional": "^17.2.0",
+  		"@playwright/test": "^1.25.0",
+  		"@sveltejs/adapter-static": "^1.0.0-next.39",
+  		"@sveltejs/kit": "^1.0.0-next.431",
+  		"@types/github-slugger": "^1.3.0",
+  		"@types/node": "^18.11.9",
+  		"@typescript-eslint/eslint-plugin": "^5.27.0",
+  		"@typescript-eslint/parser": "^5.27.0",
+  		"auto-changelog": "^2.4.0",
+  		"autoprefixer": "^10.4.12",
+  		"babel-plugin-macros": "^3.1.0",
+  		"commitizen": "^4.2.5",
+  		"cz-conventional-changelog": "^3.3.0",
+  		"eslint": "^8.16.0",
+  		"eslint-config-prettier": "^8.3.0",
+  		"eslint-plugin-svelte3": "^4.0.0",
+  		"husky": "^8.0.1",
+  		"mdsvex": "^0.10.6",
+  		"postcss-load-config": "^4.0.1",
+  		"prettier": "2.7.1",
+  		"prettier-plugin-svelte": "^2.7.0",
+  		"pretty-quick": "^3.1.3",
+  		"svelte": "^3.44.0",
+  		"svelte-check": "^2.7.1",
+  		"svelte-preprocess": "^4.10.6",
+  		"tslib": "^2.3.1",
+  		"typescript": "^4.7.4",
+  		"vite": "^3.1.0-beta.1"
+  	},
+  	"type": "module",
+  	"dependencies": {
+  		"@types/file-saver": "^2.0.5",
+  		"@types/marked": "^4.0.7",
+  		"file-saver": "^2.0.5",
+  		"github-slugger": "^2.0.0",
+  		"html-docx-js-typescript": "^0.1.5",
+  		"html-to-docx": "^1.4.0",
+  		"lodash": "^4.17.21",
+  		"marked": "^4.1.0",
+  		"marked-admonition-extension": "^0.0.1",
+  		"marked-extended-tables": "^1.0.5",
+  		"md-to-pdf": "^5.1.0",
+  		"mdast-util-to-string": "^3.1.0",
+  		"postcss": "^8.4.19",
+  		"rehype-autolink-headings": "^6.1.1",
+  		"rehype-slug": "^5.0.1",
+  		"remark-directive": "^2.0.1",
+  		"remark-frontmatter": "^4.0.1",
+  		"remark-gfm": "^3.0.0",
+  		"remark-parse": "^10.0.1",
+  		"remark-supersub": "^1.0.0",
+  		"rollup": "^3.3.0",
+  		"rollup-plugin-polyfill-node": "^0.11.0",
+  		"svelte-dark-mode": "^2.1.0",
+  		"unist-util-visit": "^4.1.1",
+  		"uuid": "^9.0.0"
+  	},
+  	"peerDependencies": {
+  		"github-slugger": "^1.0.0"
+  	},
+  	"auto-changelog": {
+  		"output": "CHANGELOG.md",
+  		"template": ".changelog-template.hbs",
+  		"unreleased": true,
+  		"commitLimit": false
+  	}
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

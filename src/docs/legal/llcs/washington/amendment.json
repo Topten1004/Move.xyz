@@ -1,0 +1,62 @@
+[
+	{
+		"name": "Entity-name",
+		"type": "text",
+		"label": "LLC's Name",
+		"placeholder": "Acme LLC",
+		"value": "Acme LLC"
+	},
+	{
+		"name": "Washington-ubi",
+		"type": "number",
+		"label": "Washington State Unified Business Identifier (UBI)",
+		"placeholder": "123 456 789",
+		"value": "123456789"
+	},
+	{
+		"name": "Shares-amount",
+		"type": "number",
+		"label": "Total Amount of Shares",
+		"placeholder": "100",
+		"value": "100"
+	},
+	{
+		"name": "Shares-amount-voting",
+		"type": "number",
+		"label": "Amount of Voting Shares",
+		"placeholder": "50",
+		"value": "50"
+	},
+	{
+		"name": "Shares-amount-nonvoting",
+		"type": "number",
+		"label": "Amount of Non-voting Shares",
+		"placeholder": "50",
+		"value": "50"
+	},
+	{
+		"name": "Date-board-approval",
+		"type": "date",
+		"label": "Date of Board Approval",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Date-shareholder-approval",
+		"type": "date",
+		"label": "Date of Shareholder Approval",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Date",
+		"type": "date",
+		"label": "Agreement Date",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Entity-signer-name",
+		"type": "text",
+		"label": "Your Entity President's Full Name",
+		"placeholder": "Mrs. Jane Doe",
+		"value": "Mrs. Jane Doe"
+	}
+]

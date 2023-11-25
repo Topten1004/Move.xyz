@@ -1,0 +1,64 @@
+[
+	{
+		"name": "Entity-name",
+		"type": "text",
+		"label": "Your Entity's Name",
+		"placeholder": "ACME CORPORATION",
+		"value": "ACME CORPORATION"
+	},
+	{
+		"name": "Share-amount",
+		"type": "number",
+		"label": "Total Amount of Shares of Common Stock",
+		"placeholder": "100",
+		"value": "100"
+	},
+	{
+		"name": "Recipient-name",
+		"type": "text",
+		"label": "Purchaser's Full Name",
+		"placeholder": "Ms. Jane Doe",
+		"value": "Ms. Jane Doe"
+	},
+	{
+		"name": "Date",
+		"type": "date",
+		"label": "Agreement Date",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Recipient-address",
+		"type": "text",
+		"label": "Recipient's Street Address",
+		"placeholder": "123 Main Street, Apt. 45",
+		"value": "123 Main Street, Apt. 45"
+	},
+	{
+		"name": "Recipient-city",
+		"type": "text",
+		"label": "Recipient's City",
+		"placeholder": "Kalamazoo",
+		"value": "Kalamazoo"
+	},
+	{
+		"name": "Recipient-state",
+		"type": "text",
+		"label": "Recipient's State",
+		"placeholder": "Michigan",
+		"value": "Michigan"
+	},
+	{
+		"name": "Recipient-zip",
+		"type": "text",
+		"label": "Recipient's ZIP Code",
+		"placeholder": "49001",
+		"value": "49001"
+	},
+	{
+		"name": "Recipient-id",
+		"type": "text",
+		"label": "Recipient's Tax ID",
+		"placeholder": "135-22-4451",
+		"value": "135-22-4451"
+	}
+]

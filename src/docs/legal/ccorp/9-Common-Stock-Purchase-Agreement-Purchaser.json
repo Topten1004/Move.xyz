@@ -1,0 +1,99 @@
+[
+	{
+		"name": "Date",
+		"type": "date",
+		"label": "Agreement Date",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Share-amount",
+		"type": "number",
+		"label": "Total Number of Shares",
+		"placeholder": "100",
+		"value": "100"
+	},
+	{
+		"name": "Share-price",
+		"type": "text",
+		"label": "Price Per Share (USD)",
+		"placeholder": "1",
+		"value": "1"
+	},
+	{
+		"name": "Share-price-total",
+		"type": "text",
+		"label": "Aggregate Purchase Price (USD)",
+		"placeholder": "100",
+		"value": "100"
+	},
+	{
+		"name": "Entity-name",
+		"type": "text",
+		"label": "Corporation's Name (ALL CAPS)",
+		"placeholder": "ACME CORPORATION",
+		"value": "ACME CORPORATION"
+	},
+	{
+		"name": "Entity-signer-name",
+		"type": "text",
+		"label": "Corporation CEO's Full Name",
+		"placeholder": "Ms. Jane Doe",
+		"value": "Ms. Jane Doe"
+	},
+	{
+		"name": "Purchaser-name",
+		"type": "text",
+		"label": "Purchaser's Entity Name (Full Name if Individual)",
+		"placeholder": "Road Runner LLC, Mr. John Doe, etc.",
+		"value": "Road Runner LLC, Mr. John Doe, etc."
+	},
+	{
+		"name": "Purchaser-signer-name",
+		"type": "text",
+		"label": "Purchaser Representative's Name (Match Entity Name if Individual)",
+		"placeholder": "Mr. John Doe",
+		"value": "Mr. John Doe"
+	},
+	{
+		"name": "Purchaser-signer-role",
+		"type": "text",
+		"label": "Purchaser Representative's Role",
+		"placeholder": "President",
+		"value": "President"
+	},
+	{
+		"name": "Purchaser-type",
+		"type": "text",
+		"label": "Purchaser Entity's Type",
+		"placeholder": "Corporation, LLC, Individual, etc.",
+		"value": "Corporation, LLC, Individual, etc."
+	},
+	{
+		"name": "Purchaser-address",
+		"type": "text",
+		"label": "Purchaser's Street Address",
+		"placeholder": "123 Main Street Apt. 45",
+		"value": "123 Main Street Apt. 45"
+	},
+	{
+		"name": "Purchaser-city",
+		"type": "text",
+		"label": "Purchaser Entity's City",
+		"placeholder": "Kalamazoo",
+		"value": "Kalamazoo"
+	},
+	{
+		"name": "Purchaser-state",
+		"type": "text",
+		"label": "Purchaser Entity's State",
+		"placeholder": "Michigan",
+		"value": "Michigan"
+	},
+	{
+		"name": "Purchaser-zip",
+		"type": "text",
+		"label": "Purchaser Entity's ZIP Code",
+		"placeholder": "49001",
+		"value": "49001"
+	}
+]

@@ -1,0 +1,140 @@
+[
+	{
+		"name": "Entity-name",
+		"type": "text",
+		"label": "Corporation's Name (ALL CAPS)",
+		"placeholder": "ACME CORPORATION",
+		"value": "ACME CORPORATION"
+	},
+	{
+		"name": "Purchaser-name",
+		"type": "text",
+		"label": "Purchaser's Full Name",
+		"placeholder": "Ms. Jane Doe",
+		"value": "Ms. Jane Doe"
+	},
+	{
+		"name": "Purchaser-address",
+		"type": "text",
+		"label": "Purchaser's Address",
+		"placeholder": "123 Main Street Apt. 45, Kalamazoo, Michigan 49001",
+		"value": "123 Main Street Apt. 45, Kalamazoo, Michigan 49001"
+	},
+	{
+		"name": "Entity-signer-name",
+		"type": "text",
+		"label": "Entity Representative's Full Name",
+		"placeholder": "Mr. John Doe",
+		"value": "Mr. John Doe"
+	},
+	{
+		"name": "Entity-signer-role",
+		"type": "text",
+		"label": "Entity Representative's Title/Role",
+		"placeholder": "Chief Executive Officer",
+		"value": "Chief Executive Officer"
+	},
+	{
+		"name": "Date",
+		"type": "date",
+		"label": "Date of Agreement",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Share-amount",
+		"type": "number",
+		"label": "Total Amount of Shares Purchased",
+		"placeholder": "100",
+		"value": "100"
+	},
+	{
+		"name": "Share-par-value",
+		"type": "number",
+		"label": "Par Value Per Share (USD)",
+		"placeholder": "1",
+		"value": "1"
+	},
+	{
+		"name": "Share-price",
+		"type": "number",
+		"label": "Purchase Price Per Share (USD)",
+		"placeholder": "1",
+		"value": "1"
+	},
+	{
+		"name": "Share-total-price",
+		"type": "number",
+		"label": "Aggregate Purchase Price of Shares (USD)",
+		"placeholder": "100",
+		"value": "100"
+	},
+	{
+		"name": "Market-value",
+		"type": "text",
+		"label": "Fair Market Value of Total Shares",
+		"placeholder": "100",
+		"value": "100"
+	},
+	{
+		"name": "Certificate-number",
+		"type": "text",
+		"label": "Certificate Number of Stock Purchase Agreement",
+		"placeholder": "1",
+		"value": "1"
+	},
+	{
+		"name": "Attorney-name",
+		"type": "text",
+		"label": "Attorney's Full Name",
+		"placeholder": "Ms. Jane Doe",
+		"value": "Ms. Jane Doe"
+	},
+	{
+		"name": "Entity-address",
+		"type": "text",
+		"label": "Entity's Address",
+		"placeholder": "123 Main Street Apt. 45, Kalamazoo, Michigan 49001",
+		"value": "123 Main Street Apt. 45, Kalamazoo, Michigan 49001"
+	},
+	{
+		"name": "Escrow-agent-name",
+		"type": "text",
+		"label": "Escrow Agent's Name",
+		"placeholder": "Mr. John Doe",
+		"value": "Mr. John Doe"
+	},
+	{
+		"name": "Purchaser-tax-id",
+		"type": "text",
+		"label": "Purchaser's Taxpayer Identification Number",
+		"placeholder": "123-45-6789",
+		"value": "123-45-6789"
+	},
+	{
+		"name": "Spouse-tax-id",
+		"type": "text",
+		"label": "Purchaser Spouse's Taxpayer Identification Number",
+		"placeholder": "123-45-6789",
+		"value": "123-45-6789"
+	},
+	{
+		"name": "Date-of-transfer",
+		"type": "date",
+		"label": "Date the Shares Were Transferred",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Taxable-year",
+		"type": "number",
+		"label": "Taxable Year",
+		"placeholder": "2023",
+		"value": "2023"
+	},
+	{
+		"name": "Spouse-name",
+		"type": "text",
+		"label": "Purchaser Spouse's Name",
+		"placeholder": "Mr. Jeff Doe",
+		"value": "Mr. Jeff Doe"
+	}
+]

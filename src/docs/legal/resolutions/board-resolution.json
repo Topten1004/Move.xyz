@@ -1,0 +1,50 @@
+[
+	{
+		"name": "Date",
+		"type": "date",
+		"label": "Agreement Date",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Entity-name",
+		"type": "text",
+		"label": "Your Entity's Name",
+		"placeholder": "Acme LLC",
+		"value": "Acme LLC"
+	},
+	{
+		"name": "Entity-state",
+		"type": "text",
+		"label": "Your Entity's State",
+		"placeholder": "Michigan",
+		"value": "Michigan"
+	},
+	{
+		"name": "Counterparty-name",
+		"type": "text",
+		"label": "Counterparty Entity's Name",
+		"placeholder": "Roadrunner Corporation",
+		"value": "Roadrunner Corporation"
+	},
+	{
+		"name": "Counterparty-type",
+		"type": "text",
+		"label": "Counterparty's Entity Type",
+		"placeholder": "Individual, Corporation, LLC, etc.",
+		"value": "Individual, Corporation, LLC, etc."
+	},
+	{
+		"name": "Agreement-name",
+		"type": "text",
+		"label": "Agreement Name(s)",
+		"placeholder": "Purchasing Agreement",
+		"value": "Purchasing Agreement"
+	},
+	{
+		"name": "Director-name",
+		"type": "text",
+		"label": "Director's Full Name",
+		"placeholder": "Mr. John Doe",
+		"value": "Mr. John Doe"
+	}
+]

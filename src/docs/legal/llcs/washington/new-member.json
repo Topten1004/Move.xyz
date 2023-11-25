@@ -1,0 +1,22 @@
+[
+	{
+		"name": "Entity-name",
+		"type": "text",
+		"label": "LLC's Name",
+		"placeholder": "Acme LLC",
+		"value": "Acme LLC"
+	},
+	{
+		"name": "Date",
+		"type": "date",
+		"label": "Agreement Date",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Member-name",
+		"type": "text",
+		"label": "Member's Full Name",
+		"placeholder": "Mr. John Doe",
+		"value": "Mr. John Doe"
+	}
+]

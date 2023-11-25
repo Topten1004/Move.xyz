@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Entity-name",
+		"type": "text",
+		"label": "LLC's Name",
+		"placeholder": "Acme LLC",
+		"value": "Acme LLC"
+	},
+	{
+		"name": "Entity-signer-name",
+		"type": "text",
+		"label": "LLC Director's Full Name",
+		"placeholder": "Mr. John Doe",
+		"value": "Mr. John Doe"
+	},
+	{
+		"name": "Date",
+		"type": "date",
+		"label": "Agreement Date",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Shareholder-name",
+		"type": "text",
+		"label": "Shareholder's Full Name",
+		"placeholder": "Mrs. Jane Doe",
+		"value": "Mrs. Jane Doe"
+	},
+	{
+		"name": "Directors-amount",
+		"type": "number",
+		"label": "Amount of Directors",
+		"placeholder": "5",
+		"value": "5"
+	},
+	{
+		"name": "Board-appointees-amount",
+		"type": "number",
+		"label": "Number of New Appointees to the Board",
+		"placeholder": "3",
+		"value": "3"
+	},
+	{
+		"name": "Board-appointees-list",
+		"type": "text",
+		"label": "List of Board Appointees",
+		"placeholder": "Jane Doe; Jeff Smith; and John James",
+		"value": "Jane Doe; Jeff Smith; and John James"
+	},
+	{
+		"name": "Officer-roles-and-names",
+		"type": "text",
+		"label": "Officer Names and Roles",
+		"placeholder": "Jane Smith, Chief Financial Officer; Joe Smith, Chief Operating Officer; and Jen Doe, Chief Technical Officer.",
+		"value": "Jane Smith, Chief Financial Officer; Joe Smith, Chief Operating Officer; and Jen Doe, Chief Technical Officer."
+	}
+]

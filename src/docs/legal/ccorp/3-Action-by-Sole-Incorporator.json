@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Date",
+		"type": "date",
+		"label": "Agreement Date",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Entity-name",
+		"type": "text",
+		"label": "Corporation's Name (ALL CAPS)",
+		"placeholder": "ACME CORPORATION",
+		"value": "ACME CORPORATION"
+	},
+	{
+		"name": "Board-member-name",
+		"type": "text",
+		"label": "Board Member's Full Name",
+		"placeholder": "Mr. John Doe",
+		"value": "Mr. John Doe"
+	},
+	{
+		"name": "Incorporator-name",
+		"type": "text",
+		"label": "Incorporator's Full Name",
+		"placeholder": "Ms. Jane Doe",
+		"value": "Ms. Jane Doe"
+	}
+]

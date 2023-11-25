@@ -1,0 +1,43 @@
+[
+	{
+		"name": "Date",
+		"type": "date",
+		"label": "Agreement Date",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Entity-name",
+		"type": "text",
+		"label": "Your Entity's Name",
+		"placeholder": "ACME CORPORATION",
+		"value": "ACME CORPORATION"
+	},
+	{
+		"name": "Entity-state",
+		"type": "text",
+		"label": "Your Entity's State",
+		"placeholder": "Washington",
+		"value": "Washington"
+	},
+	{
+		"name": "Entity-county",
+		"type": "text",
+		"label": "Your Entity's County",
+		"placeholder": "King County",
+		"value": "King County"
+	},
+	{
+		"name": "Manager-name",
+		"type": "text",
+		"label": "Manager's Full Name",
+		"placeholder": "Mr. John Doe",
+		"value": "Mr. John Doe"
+	},
+	{
+		"name": "Consultant-name",
+		"type": "text",
+		"label": "Consultant's Full Name",
+		"placeholder": "Ms. Jane Doe",
+		"value": "Ms. Jane Doe"
+	}
+]

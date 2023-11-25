@@ -1,0 +1,161 @@
+[
+	{
+		"name": "Entity-name",
+		"type": "text",
+		"label": "LLC's Name",
+		"placeholder": "Acme DAO",
+		"value": "Acme DAO"
+	},
+	{
+		"name": "Date",
+		"type": "date",
+		"label": "Agreement Effective Date",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Entity-formation-date",
+		"type": "date",
+		"label": "Entity Formation Date",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Entity-full-address",
+		"type": "text",
+		"label": "Entity Full Address",
+		"placeholder": "1234 Blockchain Ave, New York, NY 10001",
+		"value": "1234 Blockchain Ave, New York, NY 10001"
+	},
+	{
+		"name": "Entity-purpose",
+		"type": "text",
+		"label": "Entity Purpose",
+		"placeholder": "Investing in Monkey JPEGs",
+		"value": "Investing in Monkey JPEGs"
+	},
+	{
+		"name": "Entity-token-name",
+		"type": "text",
+		"label": "Entity Token Name",
+		"placeholder": "ACME",
+		"value": "ACME"
+	},
+	{
+		"name": "Entity-token-total-supply",
+		"type": "text",
+		"label": "Entity Token Total Supply",
+		"placeholder": "one trillion (1,000,000,000,000)",
+		"value": "one trillion (1,000,000,000,000)"
+	},
+	{
+		"name": "Entity-tokens-issued",
+		"type": "text",
+		"label": "Entity Token Issued",
+		"placeholder": "one million (1,000,000) per ETH",
+		"value": "one million (1,000,000) per ETH"
+	},
+	{
+		"name": "Minimum-token-purchase-amount",
+		"type": "text",
+		"label": "Minimum Token Purchase Amount",
+		"placeholder": "one million (1,000,000)",
+		"value": "one million (1,000,000)"
+	},
+	{
+		"name": "Governance-process",
+		"type": "text",
+		"label": "Governance Process",
+		"placeholder": "Snapshot vote, or https://dao.acme.com/governance-process",
+		"value": "Snapshot vote, or https://dao.acme.com/governance-process"
+	},
+	{
+		"name": "Specific-governance-decisions",
+		"type": "text",
+		"label": "Specific Governance Decisions",
+		"placeholder": "disposing of any and all assets, termination of members, and/or https://dao.acme.com/detailed-list-of-governance-decisions",
+		"value": "disposing of any and all assets, termination of members, and/or https://dao.acme.com/detailed-list-of-governance-decisions"
+	},
+	{
+		"name": "Governance-process-in-detail",
+		"type": "text",
+		"label": "Governance Process In Detail",
+		"placeholder": "https://dao.acme.com/governance-process-in-detail",
+		"value": "https://dao.acme.com/governance-process-in-detail"
+	},
+	{
+		"name": "Entity-management-meeting-location",
+		"type": "text",
+		"label": "Entity Management Meeting Location",
+		"placeholder": "1234 Blockchain Ave, New York, NY 10001",
+		"value": "1234 Blockchain Ave, New York, NY 10001"
+	},
+	{
+		"name": "Entity-management-committee-count",
+		"type": "text",
+		"label": "Entity Management Committee Cout",
+		"placeholder": "thirteen (13)",
+		"value": "thirteen (13)"
+	},
+	{
+		"name": "Entity-management-committee-term",
+		"type": "text",
+		"label": "Entity Management Committee Term",
+		"placeholder": "four years",
+		"value": "four years"
+	},
+	{
+		"name": "Entity-management-election-process-details",
+		"type": "text",
+		"label": "Entity Management Election Process Details",
+		"placeholder": "https://dao.acme.com/election-process",
+		"value": "https://dao.acme.com/election-process"
+	},
+	{
+		"name": "Management-committee-reimbursement-interest-rate",
+		"type": "text",
+		"label": "Management Committee Reimbursement Interest Rate",
+		"placeholder": "prime plus 1%",
+		"value": "prime plus 1%"
+	},
+	{
+		"name": "Yearly-K1-number-of-days",
+		"type": "text",
+		"label": "Yearly K1 Number of Days",
+		"placeholder": "180",
+		"value": "180"
+	},
+	{
+		"name": "Electronic-notice-address",
+		"type": "text",
+		"label": "Electronic Notice Address",
+		"placeholder": "1234 Blockchain Ave, New York, NY 10001",
+		"value": "1234 Blockchain Ave, New York, NY 10001"
+	},
+	{
+		"name": "Entity-dispute-jurisdiction",
+		"type": "text",
+		"label": "Entity Dispute Jurisdiction",
+		"placeholder": "Delaware Court of Chancery",
+		"value": "Delaware Court of Chancery"
+	},
+	{
+		"name": "Entity-dispute-state",
+		"type": "text",
+		"label": "Entity Dispute State",
+		"placeholder": "Delaware",
+		"value": "Delaware"
+	},
+	{
+		"name": "Registered-agent-name",
+		"type": "text",
+		"label": "Registered Agent Name",
+		"placeholder": "Mr. John Doe",
+		"value": "Mr. John Doe"
+	},
+	{
+		"name": "Administrative-member-name",
+		"type": "text",
+		"label": "Administrative Member's Name",
+		"placeholder": "Mr. John Doe",
+		"value": "Mr. John Doe"
+	}
+]

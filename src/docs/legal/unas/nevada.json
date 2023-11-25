@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Date",
+		"type": "date",
+		"label": "Agreement Date",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Entity-name",
+		"type": "text",
+		"label": "UNA's Name",
+		"placeholder": "ACME DAO",
+		"value": "ACME DAO"
+	},
+	{
+		"name": "Entity-purpose",
+		"type": "text",
+		"label": "UNA's Purpose",
+		"placeholder": "to provide explosives to Wile E. Coyote",
+		"value": "to provide explosives to Wile E. Coyote"
+	},
+	{
+		"name": "Contribution-url",
+		"type": "url",
+		"label": "Contribution Website URL",
+		"placeholder": "https://donate.acme.xyz",
+		"value": "https://donate.acme.xyz"
+	},
+	{
+		"name": "Date-formation",
+		"type": "date",
+		"label": "Formation Date",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Tokens-per-eth",
+		"type": "number",
+		"label": "Tokens per ETH",
+		"placeholder": "100",
+		"value": "100"
+	},
+	{
+		"name": "Max-token-grant",
+		"type": "number",
+		"label": "Max Token Grant",
+		"placeholder": "500",
+		"value": "500"
+	},
+	{
+		"name": "Service-provider-name",
+		"type": "text",
+		"label": "Service Provider's Name",
+		"placeholder": "dao-lawfirm.eth",
+		"value": "dao-lawfirm.eth"
+	}
+]

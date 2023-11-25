@@ -1,0 +1,63 @@
+[
+	{
+		"name": "Date",
+		"type": "date",
+		"label": "This Agreement's Date",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Entity-name",
+		"type": "text",
+		"label": "Your Entity's Name",
+		"placeholder": "ACME CORPORATION",
+		"value": "ACME CORPORATION"
+	},
+	{
+		"name": "Agreement-date",
+		"type": "date",
+		"label": "Date the SAFE Agreement was Executed",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Agreement-url",
+		"type": "url",
+		"label": "SAFE Agreement URL",
+		"placeholder": "https://acme-corporation.xyz/SAFE",
+		"value": "https://acme-corporation.xyz/SAFE"
+	},
+	{
+		"name": "Entity-risks",
+		"type": "text",
+		"label": "Specific Risks Associated With Your Entity",
+		"placeholder": "our explosives are dangerous and volatile",
+		"value": "our explosives are dangerous and volatile"
+	},
+	{
+		"name": "Entity-jurisdiction-representations",
+		"type": "text",
+		"label": "Entity Representations Regarding Jurisdiction Law",
+		"placeholder": "This Agreement shall be in accordance with substantive laws of Kalamazoo, Michigan.",
+		"value": "This Agreement shall be in accordance with substantive laws of Kalamazoo, Michigan."
+	},
+	{
+		"name": "Token-purchase-amount",
+		"type": "number",
+		"label": "Token Purchase Amount",
+		"placeholder": "100",
+		"value": "100"
+	},
+	{
+		"name": "Token-price-per",
+		"type": "number",
+		"label": "Price Per Token (USD)",
+		"placeholder": "1",
+		"value": "1"
+	},
+	{
+		"name": "Tokens-purchase-total",
+		"type": "number",
+		"label": "Total Tokens Purchased",
+		"placeholder": "100",
+		"value": "100"
+	}
+]

@@ -1,0 +1,140 @@
+[
+	{
+		"name": "Date",
+		"type": "date",
+		"label": "Date",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Date-termination",
+		"type": "date",
+		"label": "Termination Date",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Entity-name",
+		"type": "text",
+		"label": "Your Entity's Name",
+		"placeholder": "ACME CORPORATION",
+		"value": "ACME CORPORATION"
+	},
+	{
+		"name": "Entity-address",
+		"type": "text",
+		"label": "Your Entity's Street Address",
+		"placeholder": "123 Main Street, Apt. 45",
+		"value": "123 Main Street, Apt. 45"
+	},
+	{
+		"name": "Entity-city",
+		"type": "text",
+		"label": "Your Entity's City",
+		"placeholder": "Kalamazoo",
+		"value": "Kalamazoo"
+	},
+	{
+		"name": "Entity-county",
+		"type": "text",
+		"label": "Your Entity's County",
+		"placeholder": "Kalamazoo County",
+		"value": "Kalamazoo County"
+	},
+	{
+		"name": "Entity-state",
+		"type": "text",
+		"label": "Your Entity's State",
+		"placeholder": "Michigan",
+		"value": "Michigan"
+	},
+	{
+		"name": "Entity-zip",
+		"type": "text",
+		"label": "Your Entity's ZIP Code",
+		"placeholder": "49001",
+		"value": "49001"
+	},
+	{
+		"name": "Entity-signer-name",
+		"type": "text",
+		"label": "Your Entity Representative's Name",
+		"placeholder": "Ms. Jane Doe",
+		"value": "Ms. Jane Doe"
+	},
+	{
+		"name": "Entity-signer-role",
+		"type": "text",
+		"label": "Your Entity Representative's Role/Title",
+		"placeholder": "Chief Executive Officer",
+		"value": "Chief Executive Officer"
+	},
+	{
+		"name": "Witness-name",
+		"type": "text",
+		"label": "Witness's Name",
+		"placeholder": "Ms. Janet Dow",
+		"value": "Ms. Janet Dow"
+	},
+	{
+		"name": "Witness-role",
+		"type": "text",
+		"label": "Witness's Role/Title",
+		"placeholder": "Secretary",
+		"value": "Secretary"
+	},
+	{
+		"name": "Employee-name",
+		"type": "text",
+		"label": "Employee's Name",
+		"placeholder": "Mr. John Doe",
+		"value": "Mr. John Doe"
+	},
+	{
+		"name": "Employee-address",
+		"type": "text",
+		"label": "Employee's Street Address",
+		"placeholder": "123 Main Street, Apt. 45",
+		"value": "123 Main Street, Apt. 45"
+	},
+	{
+		"name": "Employee-city",
+		"type": "text",
+		"label": "Employee's City",
+		"placeholder": "Wichita",
+		"value": "Wichita"
+	},
+	{
+		"name": "Employee-state",
+		"type": "text",
+		"label": "Employee's State",
+		"placeholder": "Kansas",
+		"value": "Kansas"
+	},
+	{
+		"name": "Employee-zip",
+		"type": "text",
+		"label": "Employee's ZIP Code",
+		"placeholder": "67201",
+		"value": "67201"
+	},
+	{
+		"name": "Employee-role",
+		"type": "text",
+		"label": "Employee's Role(s)",
+		"placeholder": "Company Board Member, President, Chief Executive Officer, and Chairman of the Board",
+		"value": "Company Board Member, President, Chief Executive Officer, and Chairman of the Board"
+	},
+	{
+		"name": "Pay-amount",
+		"type": "number",
+		"label": "Total Severance Amount (USD)",
+		"placeholder": "100",
+		"value": "100"
+	},
+	{
+		"name": "Pay-period",
+		"type": "text",
+		"label": "Severance Period (Severance Amount/Salary)",
+		"placeholder": "9 months",
+		"value": "9 months"
+	}
+]

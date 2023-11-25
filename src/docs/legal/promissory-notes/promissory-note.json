@@ -1,0 +1,182 @@
+[
+	{
+		"name": "Date",
+		"type": "date",
+		"label": "Agreement Date",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Lender-name",
+		"type": "text",
+		"label": "Lender (or Lender Entity's) Full Name",
+		"placeholder": "Ms. Jane Doe OR ACME CORPORATION",
+		"value": "ACME CORPORATION"
+	},
+	{
+		"name": "Lender-entity-type",
+		"type": "text",
+		"label": "Lender's Entity Type",
+		"placeholder": "Corporation",
+		"value": "Corporation"
+	},
+	{
+		"name": "Lender-representative-name",
+		"type": "text",
+		"label": "Lender Representative's Full Name (Same as Name if Type is Individual)",
+		"placeholder": "Mr. John Doe",
+		"value": "Mr. John Doe"
+	},
+	{
+		"name": "Lender-address",
+		"type": "text",
+		"label": "Lender's Street Address",
+		"placeholder": "123 Main Street, Apt. 45",
+		"value": "123 Main Street, Apt. 45"
+	},
+	{
+		"name": "Lender-city",
+		"type": "text",
+		"label": "Lender's City",
+		"placeholder": "Kalamazoo",
+		"value": "Kalamazoo"
+	},
+	{
+		"name": "Lender-state",
+		"type": "text",
+		"label": "Lender's State",
+		"placeholder": "Michigan",
+		"value": "Michigan"
+	},
+	{
+		"name": "Lender-zip",
+		"type": "text",
+		"label": "Lender's ZIP Code",
+		"placeholder": "49001",
+		"value": "49001"
+	},
+	{
+		"name": "Lender-email",
+		"type": "text",
+		"label": "Lender's Email Address",
+		"placeholder": "wile@acme.xyz",
+		"value": "wile@acme.xyz"
+	},
+	{
+		"name": "Borrower-name",
+		"type": "text",
+		"label": "Borrower's (or Borrower Entity's) Full Name",
+		"placeholder": "Road Runner LLC",
+		"value": "Road Runner LLC"
+	},
+	{
+		"name": "Borrower-entity-type",
+		"type": "text",
+		"label": "Borrower's Entity Type",
+		"placeholder": "Limited Liability Corporation",
+		"value": "Limited Liability Corporation"
+	},
+	{
+		"name": "Borrower-representative-name",
+		"type": "text",
+		"label": "Borrower Representative's Full Name (Match Name if Type is Individual)",
+		"placeholder": "Mr. John Doe",
+		"value": "Mr. John Doe"
+	},
+	{
+		"name": "Borrower-address",
+		"type": "text",
+		"label": "Borrower's Street Address",
+		"placeholder": "123 Main Street, Apt. 45",
+		"value": "123 Main Street, Apt. 45"
+	},
+	{
+		"name": "Borrower-city",
+		"type": "text",
+		"label": "Borrower's City",
+		"placeholder": "Wichita",
+		"value": "Wichita"
+	},
+	{
+		"name": "Borrower-state",
+		"type": "text",
+		"label": "Borrower's State",
+		"placeholder": "Kansas",
+		"value": "Kansas"
+	},
+	{
+		"name": "Borrower-zip",
+		"type": "text",
+		"label": "Borrower's ZIP Code",
+		"placeholder": "67052",
+		"value": "67052"
+	},
+	{
+		"name": "Borrower-email",
+		"type": "text",
+		"label": "Borrower's Email Address",
+		"placeholder": "wile@acme.xyz",
+		"value": "wile@acme.xyz"
+	},
+	{
+		"name": "State-jurisdiction",
+		"type": "text",
+		"label": "Preferred State Jurisdiction",
+		"placeholder": "Delaware",
+		"value": "Delaware"
+	},
+	{
+		"name": "Loan-amount",
+		"type": "number",
+		"label": "Loan Amount (USD)",
+		"placeholder": "100",
+		"value": "100"
+	},
+	{
+		"name": "Lender-advanced-amount",
+		"type": "number",
+		"label": "Prior Amount Advanced (USD)",
+		"placeholder": "50",
+		"value": "50"
+	},
+	{
+		"name": "Loan-fee",
+		"type": "number",
+		"label": "Flat Origination Fee Paid to Lender in USD",
+		"placeholder": "10",
+		"value": "10"
+	},
+	{
+		"name": "Annual-interest-rate",
+		"type": "number",
+		"label": "Annual Interest Rate (Percentage)",
+		"placeholder": "5",
+		"value": "5"
+	},
+	{
+		"name": "Annual-interest-rate-default",
+		"type": "number",
+		"label": "Increased Annual Interest Rate in the Event of Default (Percentage)",
+		"placeholder": "10",
+		"value": "10"
+	},
+	{
+		"name": "Maturity-date",
+		"type": "date",
+		"label": "Maturity Date (When the Loan is Due)",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Warrant-strike-price",
+		"type": "number",
+		"label": "USD Warrant Share Strike Price (Requires the Borrower to be an Entity)",
+		"placeholder": "200",
+		"value": "200"
+	},
+	{
+		"name": "Borrower-default-days",
+		"type": "number",
+		"label": "Days of Nonpayment Until Borrower Defaults",
+		"placeholder": "90",
+		"value": "90"
+	}
+]

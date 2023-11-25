@@ -1,0 +1,78 @@
+[
+	{
+		"name": "Date",
+		"type": "date",
+		"label": "Agreement Date",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Entity-name",
+		"type": "text",
+		"label": "Corporation's Name (ALL CAPS)",
+		"placeholder": "ACME CORPORATION",
+		"value": "ACME CORPORATION"
+	},
+	{
+		"name": "Entity-purpose",
+		"type": "text",
+		"label": "Corporation's Purpose",
+		"placeholder": "any lawful act or activity",
+		"value": "any lawful act or activity"
+	},
+	{
+		"name": "Registered-agent-name",
+		"type": "text",
+		"label": "Registered Agent Name",
+		"placeholder": "Mr. John Doe",
+		"value": "Mr. John Doe"
+	},
+	{
+		"name": "Entity-state",
+		"type": "text",
+		"label": "Entity-state",
+		"placeholder": "Delaware",
+		"value": "Delaware"
+	},
+	{
+		"name": "Registered-office-address",
+		"type": "text",
+		"label": "Registered Office Address",
+		"placeholder": "123 Main Street, Apt. 45, Kalamazoo, MI 49001",
+		"value": "123 Main Street, Apt. 45, Kalamazoo, MI 49001"
+	},
+	{
+		"name": "Incorporator-name",
+		"type": "text",
+		"label": "Incorporator's Full Name",
+		"placeholder": "Mr. John Doe",
+		"value": "Mr. John Doe"
+	},
+	{
+		"name": "Incorporator-address",
+		"type": "text",
+		"label": "Incorporator Address",
+		"placeholder": "123 Main Street, Apt. 45, Kalamazoo, MI 49001",
+		"value": "123 Main Street, Apt. 45, Kalamazoo, MI 49001"
+	},
+	{
+		"name": "Share-amount",
+		"type": "number",
+		"label": "Total Number of Shares",
+		"placeholder": "10_000_000",
+		"value": "10000000"
+	},
+	{
+		"name": "Share-value",
+		"type": "number",
+		"label": "Par Value Per Share (USD)",
+		"placeholder": "1",
+		"value": "1"
+	},
+	{
+		"name": "Entity-jurisdiction-statute",
+		"type": "text",
+		"label": "Jurisdiction statue referencing incorporation",
+		"placeholder": "Article VIII and Article IX",
+		"value": "Article VIII and Article IX"
+	}
+]

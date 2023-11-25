@@ -1,0 +1,66 @@
+/**
+Tip: find unicode here https://www.compart.com/en/unicode/search
+*/
+
+#content h1,
+#content h2,
+#content h3,
+#content h4 {
+	scroll-margin-top: 4.8rem;
+}
+
+.centerHeaders h1,
+.center {
+	text-align: center;
+}
+
+.tip {
+	padding: 10px 25px;
+	background-color: var(--background-l1);
+	border: 1px solid var(--stroke-success);
+}
+
+.tip p::before {
+	content: '💡';
+	font-size: 1.5rem;
+	margin-right: 20px;
+}
+
+.info {
+	padding: 10px 25px;
+	background-color: var(--background-l1);
+	border: 1px solid var(--stroke-secondary);
+}
+
+.info p::before {
+	content: 'ⓘ';
+	color: var(--icon-secondary);
+	font-size: 1.5rem;
+	margin-right: 20px;
+}
+
+.caution {
+	padding: 10px 25px;
+	background-color: var(--background-l1);
+	border: 1px solid var(--stroke-warn);
+}
+
+.caution p::before {
+	content: '!';
+	color: var(--stroke-warn);
+	font-size: 1.5rem;
+	margin-right: 20px;
+}
+
+.warning {
+	padding: 10px 25px;
+	background-color: var(--background-l1);
+	border: 1px solid var(--stroke-failure);
+}
+
+.warning p::before {
+	content: '⚠️';
+	color: var(--stroke-failure);
+	font-size: 1.5rem;
+	margin-right: 20px;
+}

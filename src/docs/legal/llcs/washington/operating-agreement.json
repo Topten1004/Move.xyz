@@ -1,0 +1,71 @@
+[
+	{
+		"name": "Entity-name",
+		"type": "text",
+		"label": "LLC's Name",
+		"placeholder": "Acme LLC",
+		"value": "Acme LLC"
+	},
+	{
+		"name": "Date",
+		"type": "date",
+		"label": "Agreement Date",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Manager-name",
+		"type": "text",
+		"label": "Manager's Full Name",
+		"placeholder": "Mrs. Jane Doe",
+		"value": "Mrs. Jane Doe"
+	},
+	{
+		"name": "Initial-member-name",
+		"type": "text",
+		"label": "Initial Member's Full Name",
+		"placeholder": "Mr. John Doe",
+		"value": "Mr. John Doe"
+	},
+	{
+		"name": "Additional-member-max",
+		"type": "number",
+		"label": "Maximum Number of Additional Members",
+		"placeholder": "97",
+		"value": "97"
+	},
+	{
+		"name": "Service-provider-name",
+		"type": "text",
+		"label": "Service Provider's or Counsel's Full Name",
+		"placeholder": "Ms. Jane Doe Esq.",
+		"value": "Ms. Jane Doe Esq."
+	},
+	{
+		"name": "Service-provider-representees",
+		"type": "text",
+		"label": "List of Entities Represented by the Service Provider",
+		"placeholder": "Mr. Jeff Smith; Ms. Jane Smith; and Ms. Janet Doe",
+		"value": "Mr. Jeff Smith; Ms. Jane Smith; and Ms. Janet Doe"
+	},
+	{
+		"name": "Initial-member-contribution",
+		"type": "text",
+		"label": "Capital Contribution of the Initial Member",
+		"placeholder": "Intellectual property",
+		"value": "Intellectual property"
+	},
+	{
+		"name": "Initial-member-economic-interests",
+		"type": "number",
+		"label": "Economic Interests of the Initial Member (Percentage)",
+		"placeholder": "100",
+		"value": "100"
+	},
+	{
+		"name": "Initial-member-noneconomic-interests",
+		"type": "number",
+		"label": "Non-Economic Interests of the Initial Member (Percentage)",
+		"placeholder": "100",
+		"value": "100"
+	}
+]

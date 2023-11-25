@@ -1,0 +1,151 @@
+[
+	{
+		"name": "Date",
+		"type": "date",
+		"label": "Agreement Date",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Lender-name",
+		"type": "text",
+		"label": "Lender's Full Name",
+		"placeholder": "Mrs. Jane Doe",
+		"value": "Mrs. Jane Doe"
+	},
+	{
+		"name": "Lender-address",
+		"type": "text",
+		"label": "Lender's Street Address",
+		"placeholder": "123 Main Street, Apt. 45",
+		"value": "123 Main Street, Apt. 45"
+	},
+	{
+		"name": "Lender-city",
+		"type": "text",
+		"label": "Lender's City",
+		"placeholder": "Kalamazoo",
+		"value": "Kalamazoo"
+	},
+	{
+		"name": "Lender-state",
+		"type": "text",
+		"label": "Lender's State",
+		"placeholder": "Michigan",
+		"value": "Michigan"
+	},
+	{
+		"name": "Lender-zip",
+		"type": "text",
+		"label": "Lender's ZIP Code",
+		"placeholder": "49001",
+		"value": "49001"
+	},
+	{
+		"name": "Lender-email",
+		"type": "text",
+		"label": "Lender's Email Address",
+		"placeholder": "wile@acme.xyz",
+		"value": "wile@acme.xyz"
+	},
+	{
+		"name": "Borrower-name",
+		"type": "text",
+		"label": "Borrower's Full Name",
+		"placeholder": "Mr. John Doe",
+		"value": "Mr. John Doe"
+	},
+	{
+		"name": "Borrower-address",
+		"type": "text",
+		"label": "Borrower's Street Address",
+		"placeholder": "123 Main Street, Apt. 45",
+		"value": "123 Main Street, Apt. 45"
+	},
+	{
+		"name": "Borrower-city",
+		"type": "text",
+		"label": "Borrower's City",
+		"placeholder": "Wichita",
+		"value": "Wichita"
+	},
+	{
+		"name": "Borrower-state",
+		"type": "text",
+		"label": "Borrower's State",
+		"placeholder": "Kansas",
+		"value": "Kansas"
+	},
+	{
+		"name": "Borrower-zip",
+		"type": "text",
+		"label": "Borrower's ZIP Code",
+		"placeholder": "67052",
+		"value": "67052"
+	},
+	{
+		"name": "Borrower-email",
+		"type": "text",
+		"label": "Borrower's Email Address",
+		"placeholder": "wile@acme.xyz",
+		"value": "wile@acme.xyz"
+	},
+	{
+		"name": "Amount",
+		"type": "number",
+		"label": "Amount to be Borrowed (USD)",
+		"placeholder": "100",
+		"value": "100"
+	},
+	{
+		"name": "Interest-rate",
+		"type": "number",
+		"label": "Interest Rate (Percentage)",
+		"placeholder": "10",
+		"value": "10"
+	},
+	{
+		"name": "Compound-frequency",
+		"type": "text",
+		"label": "Interest Rate's Compound Frequency (Per)",
+		"placeholder": "Annum, Month, Week, etc.",
+		"value": "Annum"
+	},
+	{
+		"name": "Borrowed-date",
+		"type": "date",
+		"label": "Date of the Loan",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Repayment-date",
+		"type": "date",
+		"label": "Date the Loan is Due",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Repayment-amount",
+		"type": "number",
+		"label": "USD Repayment Amount (for Lump Sum)",
+		"placeholder": "115",
+		"value": "115"
+	},
+	{
+		"name": "Installment-amount",
+		"type": "number",
+		"label": "USD Installment Amount (for Installments)",
+		"placeholder": "10",
+		"value": "10"
+	},
+	{
+		"name": "Installment-first-date",
+		"type": "date",
+		"label": "Due Date of the First Installment (for Installments)",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Installment-due-date",
+		"type": "date",
+		"label": "Due Date for Remaining Balance (for Installments)",
+		"value": "2023-01-01"
+	}
+]

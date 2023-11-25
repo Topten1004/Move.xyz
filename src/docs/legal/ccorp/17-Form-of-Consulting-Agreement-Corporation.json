@@ -1,0 +1,127 @@
+[
+	{
+		"name": "Date",
+		"type": "date",
+		"label": "Effective Agreement Date",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Consultant-entity-name",
+		"type": "text",
+		"label": "Consultant Entity's Name",
+		"placeholder": "Consultant LLC",
+		"value": "Consultant LLC"
+	},
+	{
+		"name": "Consultant-entity-address",
+		"type": "text",
+		"label": "Consultant Entity's Address",
+		"placeholder": "123 Main Street, Apt. 45",
+		"value": "123 Main Street, Apt. 45"
+	},
+	{
+		"name": "Consultant-name",
+		"type": "text",
+		"label": "Consultant's Full Name",
+		"placeholder": "Ms. Jane Doe",
+		"value": "Ms. Jane Doe"
+	},
+	{
+		"name": "Consultant-title",
+		"type": "text",
+		"label": "Consultant's Title/Role",
+		"placeholder": "President",
+		"value": "President"
+	},
+	{
+		"name": "Consultant-address",
+		"type": "text",
+		"label": "Consultant's Address",
+		"placeholder": "123 Main Street, Apt. 45",
+		"value": "123 Main Street, Apt. 45"
+	},
+	{
+		"name": "Entity-name",
+		"type": "text",
+		"label": "Corporation's Name (ALL CAPS)",
+		"placeholder": "ACME CORPORATION",
+		"value": "ACME CORPORATION"
+	},
+	{
+		"name": "Entity-contact-name",
+		"type": "text",
+		"label": "Entity Contact's Full Name",
+		"placeholder": "Mr. John Doe",
+		"value": "Mr. John Doe"
+	},
+	{
+		"name": "Entity-contact-role",
+		"type": "text",
+		"label": "Entity Contact's Role/Title",
+		"placeholder": "Secretary",
+		"value": "Secretary"
+	},
+	{
+		"name": "Entity-contact-email",
+		"type": "text",
+		"label": "Entity Contact's Email Address",
+		"placeholder": "john@acme.co",
+		"value": "john@acme.co"
+	},
+	{
+		"name": "Consultant-services",
+		"type": "text",
+		"label": "Description of Consultant's Services",
+		"placeholder": "Manufacturing and distribution of explosive tennis balls",
+		"value": "Manufacturing and distribution of explosive tennis balls"
+	},
+	{
+		"name": "Pay-amount",
+		"type": "number",
+		"label": "IF FLAT PAY: Payment Amount upon Receipt/Acceptance of Services (USD)",
+		"placeholder": "100",
+		"value": "100"
+	},
+	{
+		"name": "Hourly-rate",
+		"type": "number",
+		"label": "IF HOURLY PAY: Hourly Payment Rate (USD)",
+		"placeholder": "100",
+		"value": "100"
+	},
+	{
+		"name": "Max-weekly-hours",
+		"type": "number",
+		"label": "IF HOULRY PAY: Maximum Weekly Billable Hours",
+		"placeholder": "100",
+		"value": "100"
+	},
+	{
+		"name": "Entity-signer-name",
+		"type": "text",
+		"label": "Entity Representative's Name",
+		"placeholder": "Ms. Janet Joe",
+		"value": "Ms. Janet Joe"
+	},
+	{
+		"name": "Entity-signer-role",
+		"type": "text",
+		"label": "Entity Representative's Title/Role",
+		"placeholder": "Chief Executive Officer",
+		"value": "Chief Executive Officer"
+	},
+	{
+		"name": "Service-provider-name",
+		"type": "text",
+		"label": "Service Provider's Full Name",
+		"placeholder": "Mr. Jeff Joe, Esq.",
+		"value": "Mr. Jeff Joe, Esq."
+	},
+	{
+		"name": "Service-provider-relation",
+		"type": "text",
+		"label": "Service Provider's Relation to Consultant",
+		"placeholder": "Counsel",
+		"value": "Counsel"
+	}
+]

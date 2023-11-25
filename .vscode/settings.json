@@ -1,0 +1,23 @@
+{
+	"eslint.enable": true,
+	"eslint.validate": ["javascript", "typescript", "svelte"],
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": true
+	},
+	"[typescript]": {
+		"editor.formatOnSave": true,
+		"editor.formatOnPaste": true,
+		"editor.insertSpaces": false,
+		"editor.tabSize": 4
+	},
+	"[svelte]": {
+		"editor.formatOnSave": true,
+		"editor.formatOnPaste": true
+	},
+	"[json]": {
+		"editor.formatOnSave": true,
+		"editor.formatOnPaste": true,
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"githubPullRequests.ignoredPullRequestBranches": ["main"]
+}

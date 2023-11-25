@@ -1,0 +1,50 @@
+[
+	{
+		"name": "Date",
+		"type": "date",
+		"label": "Agreement Date",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Entity-name",
+		"type": "text",
+		"label": "Your Entity's Name",
+		"placeholder": "ACME CORPORATION",
+		"value": "ACME CORPORATION"
+	},
+	{
+		"name": "Entity-services",
+		"type": "text",
+		"label": "Description of Your Entity's Services Being Licensed",
+		"placeholder": "ACME CORPORATION's explosive tennis ball simulator and giant rubber band design software",
+		"value": "ACME CORPORATION's explosive tennis ball simulator and giant rubber band design software"
+	},
+	{
+		"name": "Entity-signer-name",
+		"type": "text",
+		"label": "Your Entity Representative's Full Name",
+		"placeholder": "Mr. John Doe",
+		"value": "Mr. John Doe"
+	},
+	{
+		"name": "Entity-signer-role",
+		"type": "text",
+		"label": "Your Entity Representative's Role/Title",
+		"placeholder": "Chief Executive Officer",
+		"value": "Chief Executive Officer"
+	},
+	{
+		"name": "Counterparty-signer-name",
+		"type": "text",
+		"label": "Counterparty Entity Representative's Full Name",
+		"placeholder": "Ms. Jane Doe",
+		"value": "Ms. Jane Doe"
+	},
+	{
+		"name": "Counterparty-signer-role",
+		"type": "text",
+		"label": "Counterparty Entity Representative's Role/Title",
+		"placeholder": "President",
+		"value": "President"
+	}
+]

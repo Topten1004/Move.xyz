@@ -1,0 +1,36 @@
+[
+	{
+		"name": "Entity-name",
+		"type": "text",
+		"label": "Investment Vehicle Name",
+		"placeholder": "Acme LLC",
+		"value": "Acme LLC"
+	},
+	{
+		"name": "Date-return",
+		"type": "date",
+		"label": "Date by Which Documents Must be Returned",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Administrative-member-name",
+		"type": "text",
+		"label": "Administrative Member's Full Name",
+		"placeholder": "Ms. Jane Doe",
+		"value": "Ms. Jane Doe"
+	},
+	{
+		"name": "Counsel-name",
+		"type": "text",
+		"label": "Counsel's (or Other Document Recipient's) Full Name",
+		"placeholder": "Mr. John Doe",
+		"value": "Mr. John Doe"
+	},
+	{
+		"name": "Counsel-email",
+		"type": "text",
+		"label": "Counsel's (or Other Document Recipient's) Email Address",
+		"placeholder": "john@doe.org",
+		"value": "john@doe.org"
+	}
+]

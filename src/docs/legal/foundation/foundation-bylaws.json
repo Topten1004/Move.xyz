@@ -1,0 +1,16 @@
+[
+	{
+		"name": "President-name",
+		"type": "text",
+		"label": "President's Full Name",
+		"placeholder": "Ms. Jane Doe",
+		"value": "Ms. Jane Doe"
+	},
+	{
+		"name": "Secretary-name",
+		"type": "text",
+		"label": "Secretary's Full Name",
+		"placeholder": "Mr. John Doe",
+		"value": "Mr. John Doe"
+	}
+]

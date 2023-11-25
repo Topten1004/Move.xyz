@@ -1,0 +1,70 @@
+[
+	{
+		"name": "Date",
+		"type": "date",
+		"label": "Agreement Date",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Entity-name",
+		"type": "text",
+		"label": "Your Entity's Name",
+		"placeholder": "ACME CORPORATION",
+		"value": "ACME CORPORATION"
+	},
+	{
+		"name": "Entity-city",
+		"type": "text",
+		"label": "Your Entity's City",
+		"placeholder": "Kalamazoo",
+		"value": "Kalamazoo"
+	},
+	{
+		"name": "Entity-state",
+		"type": "text",
+		"label": "Your Entity's State",
+		"placeholder": "Michigan",
+		"value": "Michigan"
+	},
+	{
+		"name": "Entity-signer-name",
+		"type": "text",
+		"label": "Your Entity Respresentative's Name",
+		"placeholder": "Mr. John Doe",
+		"value": "Mr. John Doe"
+	},
+	{
+		"name": "Entity-signer-role",
+		"type": "text",
+		"label": "Your Entity Representative's Role/Title",
+		"placeholder": "Chief Executive Officer",
+		"value": "Chief Executive Officer"
+	},
+	{
+		"name": "Recipient-name",
+		"type": "text",
+		"label": "Consultant's Name",
+		"placeholder": "Ms. Jane Doe",
+		"value": "Ms. Jane Doe"
+	},
+	{
+		"name": "Recipient-services",
+		"type": "text",
+		"label": "Description of Consultant's Services",
+		"placeholder": "to digitally design a new ACME CORPORATION logo",
+		"value": "to digitally design a new ACME CORPORATION logo"
+	},
+	{
+		"name": "Pay-amount",
+		"type": "text",
+		"label": "Supplemental Compensation Paid to Consultant (USD)",
+		"placeholder": "100",
+		"value": "100"
+	},
+	{
+		"name": "Date-negotiation",
+		"type": "date",
+		"label": "Date of Future Negotiation About Ongoing Responsibilities",
+		"value": "2023-01-01"
+	}
+]

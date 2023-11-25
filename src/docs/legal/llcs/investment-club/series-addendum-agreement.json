@@ -1,0 +1,93 @@
+[
+	{
+		"name": "Entity-name",
+		"type": "text",
+		"label": "LLC's Name",
+		"placeholder": "Acme LLC",
+		"value": "Acme LLC"
+	},
+	{
+		"name": "Date",
+		"type": "date",
+		"label": "Date Established",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Administrative-member-name",
+		"type": "text",
+		"label": "Administrative member name",
+		"placeholder": "Mr. John Doe",
+		"value": "Mr. John Doe"
+	},
+	{
+		"name": "Arbitration-location",
+		"type": "text",
+		"label": "Arbitration location",
+		"placeholder": "Kalamazoo, Michigan",
+		"value": "Kalamazoo, Michigan"
+	},
+	{
+		"name": "Contract-address",
+		"type": "text",
+		"label": "Designated Smart Contract Address",
+		"placeholder": "0x0000000000000000000000000000000000000000",
+		"value": "0x0000000000000000000000000000000000000000",
+		"pattern": "^0x[a-fA-F0-9]{40}$"
+	},
+	{
+		"name": "Company-purpose",
+		"type": "text",
+		"label": "Company purpose",
+		"placeholder": "To provide explosives to Wile E. Coyote.",
+		"value": "To provide explosives to Wile E. Coyote."
+	},
+	{
+		"name": "Member-name",
+		"type": "text",
+		"label": "Member name",
+		"placeholder": "Mr. John Doe",
+		"value": "Mr. John Doe"
+	},
+	{
+		"name": "Series-name",
+		"type": "text",
+		"label": "Series name",
+		"placeholder": "Acme LLC Explosive Tennis Balls Series",
+		"value": "Acme LLC Explosive Tennis Balls Series"
+	},
+	{
+		"name": "Series-purpose",
+		"type": "text",
+		"label": "Series purpose",
+		"placeholder": "To acquire and distribute explosive tennis balls.",
+		"value": "To acquire and distribute explosive tennis balls."
+	},
+	{
+		"name": "Series-investments",
+		"type": "text",
+		"label": "Series investments",
+		"placeholder": "14 pallets of explosive tennis balls and a cryptopunk.",
+		"value": "14 pallets of explosive tennis balls and a cryptopunk."
+	},
+	{
+		"name": "Series-assets-description",
+		"type": "text",
+		"label": "Series assets description",
+		"placeholder": "Four giant rubber bands and three rocket-powered widgets.",
+		"value": "Four giant rubber bands and three rocket-powered widgets."
+	},
+	{
+		"name": "Series-capital-contribution-requirements",
+		"type": "text",
+		"label": "Series capital contribution requirements",
+		"placeholder": "Additional capital contribution requirements (if any).",
+		"value": "Additional capital contribution requirements (if any)."
+	},
+	{
+		"name": "Series-distribution-policies",
+		"type": "text",
+		"label": "Series distribution policies",
+		"placeholder": "Series distribution policies (if different).",
+		"value": "Series distribution policies (if different)."
+	}
+]

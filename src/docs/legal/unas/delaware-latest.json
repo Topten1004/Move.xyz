@@ -1,0 +1,70 @@
+[
+	{
+		"name": "Project-formation-date",
+		"type": "date",
+		"label": "Project Formation Date",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Project-name",
+		"type": "text",
+		"label": "Unincorporated Nonprofit Association Name",
+		"placeholder": "Nonprofit ACME DAO",
+		"value": "Nonprofit ACME DAO"
+	},
+	{
+		"name": "Project-token",
+		"type": "text",
+		"label": "Project Token Name",
+		"placeholder": "NONPROFIT",
+		"value": "NONPROFIT"
+	},
+	{
+		"name": "Project-token-supply",
+		"type": "text",
+		"label": "Project Token Supply",
+		"placeholder": "10000000000000000000000000000000000000000",
+		"value": "10000000000000000000000000000000000000000"
+	},
+	{
+		"name": "Project-ENS",
+		"type": "text",
+		"label": "Project ENS",
+		"placeholder": "non-profit.eth",
+		"value": "non-profit.eth"
+	},
+	{
+		"name": "Purpose",
+		"type": "text",
+		"label": "Description Containing UNA Purpose",
+		"placeholder": "To collect donations and distribute them to the poor.",
+		"value": "To collect cryptocurrency donations and distribute them to the poor."
+	},
+	{
+		"name": "Initial-contribution-date",
+		"type": "date",
+		"label": "Initial Contribution Agreement Date",
+		"value": "2023-06-05"
+	},
+	{
+		"name": "Gnosis-Ethereum-address",
+		"type": "text",
+		"label": "Gnosis Ethereum Address",
+		"placeholder": "0x0000000000000000000000000000000000000000",
+		"value": "0x0000000000000000000000000000000000000000"
+	},
+	{
+		"name": "Service-provider",
+		"type": "text",
+		"label": "Service Provider Full Name",
+		"placeholder": "Service Provider R US, LLC",
+		"value": "Service Provider R US, LLC"
+	},
+	{
+		"name": "Project-conduct-guidelines",
+		"type": "URL",
+		"label": "Project-conduct-guidelines",
+		"placeholder": "https://non-profit.xyz/conduct-guidelines",
+		"value": "https://non-profit.xyz/conduct-guidelines"
+	}
+]

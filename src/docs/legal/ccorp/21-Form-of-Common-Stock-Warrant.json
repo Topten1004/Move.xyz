@@ -1,0 +1,106 @@
+[
+	{
+		"name": "Entity-name",
+		"type": "text",
+		"label": "Your Entity's Name",
+		"placeholder": "ACME CORPORATION",
+		"value": "ACME CORPORATION"
+	},
+	{
+		"name": "Date",
+		"type": "date",
+		"label": "Agreement Date",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Recipient-name",
+		"type": "text",
+		"label": "Recipient's Name",
+		"placeholder": "Ms. Jane Doe",
+		"value": "Ms. Jane Doe"
+	},
+	{
+		"name": "Share-amount",
+		"type": "number",
+		"label": "Total Number of Shares of Common Stock",
+		"placeholder": "100",
+		"value": "100"
+	},
+	{
+		"name": "Share-price",
+		"type": "number",
+		"label": "Warrant Price per Share in USD",
+		"placeholder": "1",
+		"value": "1"
+	},
+	{
+		"name": "Entity-signer-name",
+		"type": "text",
+		"label": "Your Entity Representative's Name",
+		"placeholder": "Mr. John Doe",
+		"value": "Mr. John Doe"
+	},
+	{
+		"name": "Entity-signer-role",
+		"type": "text",
+		"label": "Your Entity Representative's Title/Role",
+		"placeholder": "Chief Executive Officer",
+		"value": "Chief Executive Officer"
+	},
+	{
+		"name": "Share-purchase-amount",
+		"type": "number",
+		"label": "Amount of Shares Being Purchased",
+		"placeholder": "50",
+		"value": "50"
+	},
+	{
+		"name": "Recipient-address",
+		"type": "text",
+		"label": "Recipient's Address",
+		"placeholder": "123 Main Street, Apt. 45",
+		"value": "123 Main Street, Apt. 45"
+	},
+	{
+		"name": "Recipient-city",
+		"type": "text",
+		"label": "Recipient's City",
+		"placeholder": "Kalamazoo",
+		"value": "Kalamazoo"
+	},
+	{
+		"name": "Recipient-state",
+		"type": "text",
+		"label": "Recipient's State",
+		"placeholder": "Michigan",
+		"value": "Michigan"
+	},
+	{
+		"name": "Recipient-zip",
+		"type": "text",
+		"label": "Recipient's ZIP Code",
+		"placeholder": "49001",
+		"value": "49001"
+	},
+	{
+		"name": "Recipient-role",
+		"type": "text",
+		"label": "Recipient's Title/Role",
+		"placeholder": "Treasurer",
+		"value": "Treasurer"
+	},
+	{
+		"name": "Share-conversion-amount",
+		"type": "number",
+		"label": "Common Stock Shares Being Acquired",
+		"placeholder": "30",
+		"value": "30"
+	},
+	{
+		"name": "Share-conversion-percent",
+		"type": "number",
+		"label": "Percentage of Warrant Being Acquired as Common Stock Shares",
+		"placeholder": "30",
+		"value": "30"
+	}
+]

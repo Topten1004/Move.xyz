@@ -1,0 +1,106 @@
+[
+	{
+		"name": "Date",
+		"type": "date",
+		"label": "Agreement Date",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Entity-name",
+		"type": "text",
+		"label": "Your Entity's Name",
+		"placeholder": "ACME CORPORATION",
+		"value": "ACME CORPORATION"
+	},
+	{
+		"name": "Entity-signer-name",
+		"type": "text",
+		"label": "Your Entity Representative's Full Name",
+		"placeholder": "Ms. Jane Doe",
+		"value": "Ms. Jane Doe"
+	},
+	{
+		"name": "Entity-signer-role",
+		"type": "text",
+		"label": "Your Entity Representative's Title/Role",
+		"placeholder": "Chief Executive Officer",
+		"value": "Chief Executive Officer"
+	},
+	{
+		"name": "Recipient-name",
+		"type": "text",
+		"label": "Recipient's Full Name",
+		"placeholder": "Mr. John Doe",
+		"value": "Mr. John Doe"
+	},
+	{
+		"name": "Recipient-id",
+		"type": "text",
+		"label": "Recipient's Tax ID",
+		"placeholder": "163-22-9942",
+		"value": "163-22-9942"
+	},
+	{
+		"name": "Recipient-address",
+		"type": "text",
+		"label": "Recipient's Address",
+		"placeholder": "123 Main Street, Apt. 45",
+		"value": "123 Main Street, Apt. 45"
+	},
+	{
+		"name": "Recipient-city",
+		"type": "text",
+		"label": "Recipient's City",
+		"placeholder": "Kalamazoo",
+		"value": "Kalamazoo"
+	},
+	{
+		"name": "Recipient-state",
+		"type": "text",
+		"label": "Recipient's State",
+		"placeholder": "Michigan",
+		"value": "Michigan"
+	},
+	{
+		"name": "Recipient-zip",
+		"type": "text",
+		"label": "Recipient's ZIP Code",
+		"placeholder": "49001",
+		"value": "49001"
+	},
+	{
+		"name": "Plan-year",
+		"type": "number",
+		"label": "Year of Stock Option Plan",
+		"placeholder": "2023",
+		"value": "2023"
+	},
+	{
+		"name": "Share-amount",
+		"type": "number",
+		"label": "Total Amount of Shares",
+		"placeholder": "100",
+		"value": "100"
+	},
+	{
+		"name": "Share-price",
+		"type": "number",
+		"label": "Price per Share (USD)",
+		"placeholder": "1",
+		"value": "1"
+	},
+	{
+		"name": "Vesting-period",
+		"type": "text",
+		"label": "Period for Shares to Vest",
+		"placeholder": "3 months",
+		"value": "3 months"
+	},
+	{
+		"name": "Vesting-percent",
+		"type": "text",
+		"label": "Percentage of Shares Which Vest Each Period",
+		"placeholder": "5",
+		"value": "5"
+	}
+]

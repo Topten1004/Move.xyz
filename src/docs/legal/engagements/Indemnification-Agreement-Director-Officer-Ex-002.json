@@ -1,0 +1,50 @@
+[
+	{
+		"name": "Date",
+		"type": "date",
+		"label": "Date",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Entity-name",
+		"type": "text",
+		"label": "Your Entity's Name",
+		"placeholder": "ACME Corporation",
+		"value": "ACME Corporation"
+	},
+	{
+		"name": "Entity-signer-name",
+		"type": "text",
+		"label": "Your Entity Representative's Full Name",
+		"placeholder": "Mr. John Doe",
+		"value": "Mr. John Doe"
+	},
+	{
+		"name": "Entity-signer-role",
+		"type": "text",
+		"label": "Your Entity Representative's Role/Title",
+		"placeholder": "Chief Executive Officer",
+		"value": "Chief Executive Officer"
+	},
+	{
+		"name": "Recipient-name",
+		"type": "text",
+		"label": "Indemnitee's Full Name",
+		"placeholder": "Ms. Jane Doe",
+		"value": "Ms. Jane Doe"
+	},
+	{
+		"name": "Recipient-role",
+		"type": "text",
+		"label": "Indemnitee's Role/Title",
+		"placeholder": "Director and Board Member",
+		"value": "Director and Board Member"
+	},
+	{
+		"name": "Recipient-email",
+		"type": "text",
+		"label": "Indemnitee's Email Address",
+		"placeholder": "jane@doe.com",
+		"value": "jane@doe.com"
+	}
+]

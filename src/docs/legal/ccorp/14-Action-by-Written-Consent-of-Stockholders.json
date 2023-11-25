@@ -1,0 +1,50 @@
+[
+	{
+		"name": "Date",
+		"type": "date",
+		"label": "Agreement Date",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Entity-name",
+		"type": "text",
+		"label": "Corporation's Name (ALL CAPS)",
+		"placeholder": "ACME CORPORATION",
+		"value": "ACME CORPORATION"
+	},
+	{
+		"name": "Share-amount",
+		"type": "number",
+		"label": "Total Amount of Shares Under the Plan",
+		"placeholder": "100",
+		"value": "100"
+	},
+	{
+		"name": "Plan-year",
+		"type": "number",
+		"label": "Year of the Plan",
+		"placeholder": "2023",
+		"value": "2023"
+	},
+	{
+		"name": "Ceo-name",
+		"type": "text",
+		"label": "Corporation CEO's Full Name",
+		"placeholder": "Mr. John Doe",
+		"value": "Mr. John Doe"
+	},
+	{
+		"name": "Secretary-name",
+		"type": "text",
+		"label": "Corporation Secretary's Full Name",
+		"placeholder": "Mr. Jeff Doe",
+		"value": "Mr. Jeff Doe"
+	},
+	{
+		"name": "Treasurer-name",
+		"type": "text",
+		"label": "Corporation Treasurer's Full Name",
+		"placeholder": "Ms. Jane Doe",
+		"value": "Ms. Jane Doe"
+	}
+]

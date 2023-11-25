@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Entity-name",
+		"type": "text",
+		"label": "LLC's name",
+		"placeholder": "Acme LLC",
+		"value": "Acme LLC"
+	},
+	{
+		"name": "Date",
+		"type": "date",
+		"label": "Agreement Effective Date",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Adminstrative-member-name",
+		"type": "text",
+		"label": "Adminstrative Member's Full Name",
+		"placeholder": "Mr. John Doe",
+		"value": "Mr. John Doe"
+	},
+	{
+		"name": "Arbitration-location",
+		"type": "text",
+		"label": "Arbitration Location",
+		"placeholder": "Kalamazoo, Michigan",
+		"value": "Kalamazoo, Michigan"
+	},
+	{
+		"name": "Contract-address",
+		"type": "text",
+		"label": "Designated Smart Contract Address",
+		"placeholder": "0x0000000000000000000000000000000000000000",
+		"value": "0x0000000000000000000000000000000000000000",
+		"pattern": "^0x[a-fA-F0-9]{40}$"
+	},
+	{
+		"name": "Entity-purpose",
+		"type": "text",
+		"label": "LLC's Purpose",
+		"placeholder": "To provide explosives to Wile E. Coyote.",
+		"value": "To provide explosives to Wile E. Coyote."
+	},
+	{
+		"name": "Administrative-member-name",
+		"type": "text",
+		"label": "Authorized Member's name",
+		"placeholder": "Mr. John Doe",
+		"value": "Mr. John Doe"
+	},
+	{
+		"name": "Member-name",
+		"type": "text",
+		"label": "Member's name",
+		"placeholder": "Ms. Jane Doe",
+		"value": "Ms. Jane Doe"
+	}
+]

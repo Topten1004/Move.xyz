@@ -1,0 +1,37 @@
+[
+	{
+		"name": "Individual-name",
+		"type": "text",
+		"label": "Individual's Name",
+		"placeholder": "Ms. Jane Doe",
+		"value": "Ms. Jane Doe"
+	},
+	{
+		"name": "Individual-county",
+		"type": "text",
+		"label": "Individual's County",
+		"placeholder": "Kalamazoo",
+		"value": "Kalamazoo"
+	},
+	{
+		"name": "Individual-state",
+		"type": "text",
+		"label": "Individual's State",
+		"placeholder": "Michigan",
+		"value": "Michigan"
+	},
+	{
+		"name": "Attorney-name",
+		"type": "text",
+		"label": "Attorney's Name",
+		"placeholder": "Mr. John Doe",
+		"value": "Mr. John Doe"
+	},
+	{
+		"name": "Date",
+		"type": "date",
+		"label": "Agreement Date",
+		"placeholder": "2023-01-01",
+		"value": "2023-01-01"
+	}
+]

@@ -1,0 +1,2166 @@
+[
+  {
+    "label": "LEGAL-TOOLS",
+    "position": 1,
+    "path": "legal",
+    "hasRootDoc": true,
+    "leaves": [
+      {
+        "leaf": "README.md",
+        "label": "DAOLABS LEGAL TOOLKIT\r",
+        "position": null,
+        "fullpath": "legal/README.md"
+      }
+    ],
+    "items": [
+      {
+        "label": "Introduction",
+        "position": 1,
+        "path": "intro",
+        "hasRootDoc": true,
+        "leaves": [
+          {
+            "leaf": "start.md",
+            "label": "1. Start Here\r",
+            "position": 1,
+            "fullpath": "legal/intro/start.md"
+          },
+          {
+            "leaf": "project.md",
+            "label": "2. Project Planning\r",
+            "position": 2,
+            "fullpath": "legal/intro/project.md"
+          },
+          {
+            "leaf": "primer.md",
+            "label": "3. Legal Primer\r",
+            "position": 3,
+            "fullpath": "legal/intro/primer.md"
+          },
+          {
+            "leaf": "for-profit.md",
+            "label": "4a. For-Profit\r",
+            "position": 4,
+            "fullpath": "legal/intro/for-profit.md"
+          },
+          {
+            "leaf": "non-profit.md",
+            "label": "4b. Non-Profit\r",
+            "position": 5,
+            "fullpath": "legal/intro/non-profit.md"
+          },
+          {
+            "leaf": "other-documents.md",
+            "label": "5. Other Documents\r",
+            "position": 6,
+            "fullpath": "legal/intro/other-documents.md"
+          },
+          {
+            "leaf": "securities.md",
+            "label": "6. On Securities\r",
+            "position": 7,
+            "fullpath": "legal/intro/securities.md"
+          },
+          {
+            "leaf": "contributing.md",
+            "label": "7. Contributing\r",
+            "position": 8,
+            "fullpath": "legal/intro/contributing.md"
+          },
+          {
+            "leaf": "providers.md",
+            "label": "8. Service Provider Database\r",
+            "position": 9,
+            "fullpath": "legal/intro/providers.md"
+          },
+          {
+            "leaf": "README.md",
+            "position": null,
+            "fullpath": "legal/intro/README.md"
+          }
+        ],
+        "items": []
+      },
+      {
+        "label": "Definitions",
+        "position": 2,
+        "path": "definitions",
+        "hasRootDoc": true,
+        "leaves": [
+          {
+            "leaf": "legal.md",
+            "label": "Legal Glossary\r",
+            "position": 1,
+            "fullpath": "legal/definitions/legal.md"
+          },
+          {
+            "leaf": "juicebox.md",
+            "label": "Juicebox Glossary\r",
+            "position": 2,
+            "fullpath": "legal/definitions/juicebox.md"
+          },
+          {
+            "leaf": "ethereum.md",
+            "label": "Ethereum Glossary\r",
+            "position": 3,
+            "fullpath": "legal/definitions/ethereum.md"
+          },
+          {
+            "leaf": "documents.md",
+            "label": "Document Definitions\r",
+            "position": 4,
+            "fullpath": "legal/definitions/documents.md"
+          },
+          {
+            "leaf": "README.md",
+            "label": "Definitions\r",
+            "position": null,
+            "fullpath": "legal/definitions/README.md"
+          }
+        ],
+        "items": []
+      },
+      {
+        "label": "Limited Liability Company (LLC)",
+        "position": 3,
+        "path": "llcs",
+        "hasRootDoc": true,
+        "leaves": [
+          {
+            "leaf": "README.md",
+            "label": "Limited Liability Company (LLC)\r",
+            "position": null,
+            "fullpath": "legal/llcs/README.md"
+          }
+        ],
+        "items": [
+          {
+            "label": "Washington LLC",
+            "position": 1,
+            "path": "washington",
+            "hasRootDoc": false,
+            "leaves": [
+              {
+                "leaf": "operating-agreement.md",
+                "label": "Operating Agreement\r",
+                "position": 1,
+                "fullpath": "legal/llcs/washington/operating-agreement.md"
+              },
+              {
+                "leaf": "new-member.md",
+                "label": "New Member\r",
+                "position": 2,
+                "fullpath": "legal/llcs/washington/new-member.md"
+              },
+              {
+                "leaf": "capitalization.md",
+                "position": 3,
+                "fullpath": "legal/llcs/washington/capitalization.md"
+              },
+              {
+                "leaf": "amendment.md",
+                "position": 4,
+                "fullpath": "legal/llcs/washington/amendment.md"
+              }
+            ],
+            "items": []
+          },
+          {
+            "label": "Delaware Investment Club LLC",
+            "position": 2,
+            "path": "investment-club",
+            "hasRootDoc": true,
+            "leaves": [
+              {
+                "leaf": "investment-club.info.md",
+                "label": "Investment Club Additional Information\r",
+                "position": 2,
+                "fullpath": "legal/llcs/investment-club/investment-club.info.md"
+              },
+              {
+                "leaf": "investment-club.md",
+                "label": "Investment Club\r",
+                "position": 2,
+                "fullpath": "legal/llcs/investment-club/investment-club.md"
+              },
+              {
+                "leaf": "LLC-standalone.md",
+                "label": "Standalone LLC\r",
+                "position": null,
+                "fullpath": "legal/llcs/investment-club/LLC-standalone.md"
+              },
+              {
+                "leaf": "operating-agreement-investment-club-series-LLC-NO-SERIES.md",
+                "label": "Operating Agreement\r",
+                "position": 3,
+                "fullpath": "legal/llcs/investment-club/operating-agreement-investment-club-series-LLC-NO-SERIES.md"
+              },
+              {
+                "leaf": "operating-agreement-investment-club-series-LLC.md",
+                "label": "Operating Agreement\r",
+                "position": 3,
+                "fullpath": "legal/llcs/investment-club/operating-agreement-investment-club-series-LLC.md"
+              },
+              {
+                "leaf": "README.md",
+                "position": null,
+                "fullpath": "legal/llcs/investment-club/README.md"
+              },
+              {
+                "leaf": "series-addendum-agreement.md",
+                "position": null,
+                "fullpath": "legal/llcs/investment-club/series-addendum-agreement.md"
+              }
+            ],
+            "items": []
+          },
+          {
+            "label": "Delaware Investment Club LLC (latest)",
+            "position": 3,
+            "path": "member-managed",
+            "hasRootDoc": false,
+            "leaves": [
+              {
+                "leaf": "operating-agreement.md",
+                "label": "Limited Liability Agreement\r",
+                "position": 3,
+                "fullpath": "legal/llcs/member-managed/operating-agreement.md"
+              }
+            ],
+            "items": []
+          }
+        ]
+      },
+      {
+        "label": "C Corporations",
+        "position": 4,
+        "path": "ccorp",
+        "hasRootDoc": true,
+        "leaves": [
+          {
+            "leaf": "2-Certificate-of-Incorporation.md",
+            "label": "Incorporation\r",
+            "position": 1,
+            "fullpath": "legal/ccorp/2-Certificate-of-Incorporation.md"
+          },
+          {
+            "leaf": "3-Action-by-Sole-Incorporator.md",
+            "label": "Incorporator, Action\r",
+            "position": 2,
+            "fullpath": "legal/ccorp/3-Action-by-Sole-Incorporator.md"
+          },
+          {
+            "leaf": "4-Bylaws.md",
+            "label": "ByLaws\r",
+            "position": 3,
+            "fullpath": "legal/ccorp/4-Bylaws.md"
+          },
+          {
+            "leaf": "5-Certificate-of-Adoption-of-Bylaws.md",
+            "label": "ByLaws, Adoption\r",
+            "position": 5,
+            "fullpath": "legal/ccorp/5-Certificate-of-Adoption-of-Bylaws.md"
+          },
+          {
+            "leaf": "6-Board-Action-in-Lieu-of-First-Meeting.md",
+            "label": "Consent of Directors\r",
+            "position": 6,
+            "fullpath": "legal/ccorp/6-Board-Action-in-Lieu-of-First-Meeting.md"
+          },
+          {
+            "leaf": "8-Restricted-Stock-Purchase-Agreement-Founder-01.md",
+            "label": "Founder Stock Agreement\r",
+            "position": 7,
+            "fullpath": "legal/ccorp/8-Restricted-Stock-Purchase-Agreement-Founder-01.md"
+          },
+          {
+            "leaf": "9-Common-Stock-Purchase-Agreement-Purchaser.md",
+            "label": "Common Stock Agreement\r",
+            "position": 8,
+            "fullpath": "legal/ccorp/9-Common-Stock-Purchase-Agreement-Purchaser.md"
+          },
+          {
+            "leaf": "11-Indemnification-Agreement-Delaware-Corporation-Founder.md",
+            "label": "Indemnification\r",
+            "position": 9,
+            "fullpath": "legal/ccorp/11-Indemnification-Agreement-Delaware-Corporation-Founder.md"
+          },
+          {
+            "leaf": "12-202__-Equity-Incentive-Plan.md",
+            "label": "Equity Incentives\r",
+            "position": 10,
+            "fullpath": "legal/ccorp/12-202__-Equity-Incentive-Plan.md"
+          },
+          {
+            "leaf": "13-Form-of-Stock-Option-Agreement.md",
+            "label": "Stock Options\r",
+            "position": 11,
+            "fullpath": "legal/ccorp/13-Form-of-Stock-Option-Agreement.md"
+          },
+          {
+            "leaf": "14-Action-by-Written-Consent-of-Stockholders.md",
+            "label": "Shareholder Consent\r",
+            "position": 12,
+            "fullpath": "legal/ccorp/14-Action-by-Written-Consent-of-Stockholders.md"
+          },
+          {
+            "leaf": "15-Form-of-At-Will-Employment-Agreement.md",
+            "label": "At-will Employment\r",
+            "position": 13,
+            "fullpath": "legal/ccorp/15-Form-of-At-Will-Employment-Agreement.md"
+          },
+          {
+            "leaf": "16-Form-of-Consulting-Agreement-Individual.md",
+            "label": "Consulting Agreement\r",
+            "position": 14,
+            "fullpath": "legal/ccorp/16-Form-of-Consulting-Agreement-Individual.md"
+          },
+          {
+            "leaf": "17-Form-of-Consulting-Agreement-Corporation.md",
+            "label": "Consulting Agreement\r",
+            "position": 15,
+            "fullpath": "legal/ccorp/17-Form-of-Consulting-Agreement-Corporation.md"
+          },
+          {
+            "leaf": "18-Form-of-Non-Disclosure-Agreement-Discloser.md",
+            "label": "NDA, Disclosing\r",
+            "position": 16,
+            "fullpath": "legal/ccorp/18-Form-of-Non-Disclosure-Agreement-Discloser.md"
+          },
+          {
+            "leaf": "19-Form-of-Non-Disclosure-Agreement-Mutual.md",
+            "label": "NDA, Mutual\r",
+            "position": 17,
+            "fullpath": "legal/ccorp/19-Form-of-Non-Disclosure-Agreement-Mutual.md"
+          },
+          {
+            "leaf": "20-Form-of-Nonqualified-Stock-Option.md",
+            "label": "Nonqualified Stock Option Agreement\r",
+            "position": 18,
+            "fullpath": "legal/ccorp/20-Form-of-Nonqualified-Stock-Option.md"
+          },
+          {
+            "leaf": "21-Form-of-Common-Stock-Warrant.md",
+            "label": "Warrant to Purchase Common Stock\r",
+            "position": 19,
+            "fullpath": "legal/ccorp/21-Form-of-Common-Stock-Warrant.md"
+          },
+          {
+            "leaf": "22-Investment-Letter.md",
+            "label": "Investment Letter\r",
+            "position": 20,
+            "fullpath": "legal/ccorp/22-Investment-Letter.md"
+          },
+          {
+            "leaf": "23-Notice-of-Grant-of-Stock-Option-(83b-double-trigger).md",
+            "label": "Notice of Grant of Stock Option (Double Trigger)\r",
+            "position": 21,
+            "fullpath": "legal/ccorp/23-Notice-of-Grant-of-Stock-Option-(83b-double-trigger).md"
+          },
+          {
+            "leaf": "24-Notice-of-Grant-of-Stock-Option-(standard-vesting-no-83b).md",
+            "label": "Notice of Grant of Stock Option (Standard Vesting)\r",
+            "position": 22,
+            "fullpath": "legal/ccorp/24-Notice-of-Grant-of-Stock-Option-(standard-vesting-no-83b).md"
+          },
+          {
+            "leaf": "README.md",
+            "label": "C Corporations\r",
+            "position": null,
+            "fullpath": "legal/ccorp/README.md"
+          }
+        ],
+        "items": [
+          {
+            "label": "California",
+            "position": 1,
+            "path": "california",
+            "hasRootDoc": false,
+            "leaves": [
+              {
+                "leaf": "c-corp-bylaws-ca.md",
+                "label": "California C Corporation Bylaws\r",
+                "position": null,
+                "fullpath": "legal/ccorp/california/c-corp-bylaws-ca.md"
+              }
+            ],
+            "items": []
+          },
+          {
+            "label": "Delaware",
+            "position": 1,
+            "path": "delaware",
+            "hasRootDoc": false,
+            "leaves": [
+              {
+                "leaf": "bylaws.md",
+                "label": "Delaware C Corporation Bylaws\r",
+                "position": 1,
+                "fullpath": "legal/ccorp/delaware/bylaws.md"
+              }
+            ],
+            "items": []
+          },
+          {
+            "label": "Washington",
+            "position": 1,
+            "path": "washington",
+            "hasRootDoc": false,
+            "leaves": [
+              {
+                "leaf": "c-corp-bylaws.md",
+                "label": "Washington C Corporation Bylaws\r",
+                "position": null,
+                "fullpath": "legal/ccorp/washington/c-corp-bylaws.md"
+              }
+            ],
+            "items": []
+          }
+        ]
+      },
+      {
+        "label": "S Corporations",
+        "position": 5,
+        "path": "scorp",
+        "hasRootDoc": true,
+        "leaves": [
+          {
+            "leaf": "README.md",
+            "position": null,
+            "fullpath": "legal/scorp/README.md"
+          },
+          {
+            "leaf": "s-corp-bylaws.md",
+            "label": "S Corporation Bylaws\r",
+            "position": 1,
+            "fullpath": "legal/scorp/s-corp-bylaws.md"
+          }
+        ],
+        "items": []
+      },
+      {
+        "label": "Unincorporated Nonprofit Association",
+        "position": 6,
+        "path": "unas",
+        "hasRootDoc": true,
+        "leaves": [
+          {
+            "leaf": "delaware.md",
+            "label": "Delaware UNA\r",
+            "position": 1,
+            "fullpath": "legal/unas/delaware.md"
+          },
+          {
+            "leaf": "nevada.md",
+            "label": "Nevada UNA\r",
+            "position": 1,
+            "fullpath": "legal/unas/nevada.md"
+          },
+          {
+            "leaf": "delaware-latest.md",
+            "label": "Delaware UNA (2023)\r",
+            "position": 3,
+            "fullpath": "legal/unas/delaware-latest.md"
+          },
+          {
+            "leaf": "README.md",
+            "label": "Unincorporated Non-Profit Agreement\r",
+            "position": null,
+            "fullpath": "legal/unas/README.md"
+          }
+        ],
+        "items": []
+      },
+      {
+        "label": "Ownerless Foundation",
+        "position": 7,
+        "path": "foundation",
+        "hasRootDoc": true,
+        "leaves": [
+          {
+            "leaf": "foundation-bylaws.md",
+            "label": "Foundation Bylaws\r",
+            "position": 1,
+            "fullpath": "legal/foundation/foundation-bylaws.md"
+          },
+          {
+            "leaf": "README.md",
+            "position": null,
+            "fullpath": "legal/foundation/README.md"
+          }
+        ],
+        "items": []
+      },
+      {
+        "label": "Trusts",
+        "position": 8,
+        "path": "trusts",
+        "hasRootDoc": true,
+        "leaves": [
+          {
+            "leaf": "declaration-of-trust.md",
+            "label": "Declaration of Trust\r",
+            "position": 2,
+            "fullpath": "legal/trusts/declaration-of-trust.md"
+          },
+          {
+            "leaf": "README.md",
+            "label": "Trusts\r",
+            "position": null,
+            "fullpath": "legal/trusts/README.md"
+          },
+          {
+            "leaf": "trust-agreement.md",
+            "label": "Trust Agreement\r",
+            "position": 1,
+            "fullpath": "legal/trusts/trust-agreement.md"
+          }
+        ],
+        "items": []
+      },
+      {
+        "label": "Promissory Notes",
+        "position": 9,
+        "path": "promissory-notes",
+        "hasRootDoc": true,
+        "leaves": [
+          {
+            "leaf": "promissory-note.md",
+            "label": "Promissory Note\r",
+            "position": 5,
+            "fullpath": "legal/promissory-notes/promissory-note.md"
+          },
+          {
+            "leaf": "README.md",
+            "label": "Promissory Note (Loans)\r",
+            "position": null,
+            "fullpath": "legal/promissory-notes/README.md"
+          },
+          {
+            "leaf": "simple-iou.md",
+            "label": "Simple IOU\r",
+            "position": 1,
+            "fullpath": "legal/promissory-notes/simple-iou.md"
+          }
+        ],
+        "items": []
+      },
+      {
+        "label": "Resolutions",
+        "position": 10,
+        "path": "resolutions",
+        "hasRootDoc": true,
+        "leaves": [
+          {
+            "leaf": "banking-resolution.md",
+            "label": "Banking\r",
+            "position": 1,
+            "fullpath": "legal/resolutions/banking-resolution.md"
+          },
+          {
+            "leaf": "board-resolution.md",
+            "label": "Board Resolution\r",
+            "position": 2,
+            "fullpath": "legal/resolutions/board-resolution.md"
+          },
+          {
+            "leaf": "README.md",
+            "label": "Resolutions\r",
+            "position": null,
+            "fullpath": "legal/resolutions/README.md"
+          }
+        ],
+        "items": []
+      },
+      {
+        "label": "Equity",
+        "position": 11,
+        "path": "tokens",
+        "hasRootDoc": true,
+        "leaves": [
+          {
+            "leaf": "README.md",
+            "label": "Tokens\r",
+            "position": null,
+            "fullpath": "legal/tokens/README.md"
+          },
+          {
+            "leaf": "saft.md",
+            "label": "Simple Agreement for Future Tokens (Short)\r",
+            "position": 1,
+            "fullpath": "legal/tokens/saft.md"
+          },
+          {
+            "leaf": "safe.md",
+            "label": "Simple Agreement for Future Equity (Long)\r",
+            "position": 2,
+            "fullpath": "legal/tokens/safe.md"
+          },
+          {
+            "leaf": "safe-exhibits.md",
+            "label": "Simple Agreement for Future Equity (Exhibits)\r",
+            "position": 3,
+            "fullpath": "legal/tokens/safe-exhibits.md"
+          }
+        ],
+        "items": []
+      },
+      {
+        "label": "Licensing",
+        "position": 12,
+        "path": "licensing",
+        "hasRootDoc": true,
+        "leaves": [
+          {
+            "leaf": "product-license-agreement.md",
+            "label": "Product License Agreement\r",
+            "position": null,
+            "fullpath": "legal/licensing/product-license-agreement.md"
+          },
+          {
+            "leaf": "README.md",
+            "position": null,
+            "fullpath": "legal/licensing/README.md"
+          },
+          {
+            "leaf": "Software-License-Agreement.md",
+            "label": "Master Terms & Conditions for License\r",
+            "position": null,
+            "fullpath": "legal/licensing/Software-License-Agreement.md"
+          }
+        ],
+        "items": []
+      },
+      {
+        "label": "Engagements",
+        "position": 13,
+        "path": "engagements",
+        "hasRootDoc": true,
+        "leaves": [
+          {
+            "leaf": "assignment-of-interest.md",
+            "label": "Assignment of Interest\r",
+            "position": null,
+            "fullpath": "legal/engagements/assignment-of-interest.md"
+          },
+          {
+            "leaf": "board-of-directors-offer-letter.md",
+            "label": "Board Member Offer Letter\r",
+            "position": null,
+            "fullpath": "legal/engagements/board-of-directors-offer-letter.md"
+          },
+          {
+            "leaf": "ica.md",
+            "label": "Contractor Agreement\r",
+            "position": 1,
+            "fullpath": "legal/engagements/ica.md"
+          },
+          {
+            "leaf": "innovations-agreement.md",
+            "label": "Innovations and Assignment\r",
+            "position": 1,
+            "fullpath": "legal/engagements/innovations-agreement.md"
+          },
+          {
+            "leaf": "Indemnification-Agreement-Director-Officer-Ex-001.md",
+            "label": "Director and Officer Indemnification Agreement\r",
+            "position": 7,
+            "fullpath": "legal/engagements/Indemnification-Agreement-Director-Officer-Ex-001.md"
+          },
+          {
+            "leaf": "Indemnification-Agreement-Director-Officer-Ex-002.md",
+            "label": "Form of Indemnification Agreement\r",
+            "position": 8,
+            "fullpath": "legal/engagements/Indemnification-Agreement-Director-Officer-Ex-002.md"
+          },
+          {
+            "leaf": "README.md",
+            "position": null,
+            "fullpath": "legal/engagements/README.md"
+          },
+          {
+            "leaf": "supplemental-compensation.md",
+            "label": "Supplemental Compensation Agreement\r",
+            "position": null,
+            "fullpath": "legal/engagements/supplemental-compensation.md"
+          }
+        ],
+        "items": []
+      },
+      {
+        "label": "Settlements",
+        "position": 14,
+        "path": "settlements",
+        "hasRootDoc": true,
+        "leaves": [
+          {
+            "leaf": "confidential-settlement-agreement.md",
+            "label": "Confidential Settlement Agreement\r",
+            "position": null,
+            "fullpath": "legal/settlements/confidential-settlement-agreement.md"
+          },
+          {
+            "leaf": "covenant-not-to-sue.md",
+            "label": "Separation Agreement, Release, and Covenant Not to Sue\r",
+            "position": null,
+            "fullpath": "legal/settlements/covenant-not-to-sue.md"
+          },
+          {
+            "leaf": "README.md",
+            "position": null,
+            "fullpath": "legal/settlements/README.md"
+          },
+          {
+            "leaf": "Settlement.md",
+            "label": "Settlement Agreement and Release\r",
+            "position": null,
+            "fullpath": "legal/settlements/Settlement.md"
+          }
+        ],
+        "items": []
+      },
+      {
+        "label": "Terms of Service",
+        "position": 15,
+        "path": "tos",
+        "hasRootDoc": true,
+        "leaves": [
+          {
+            "leaf": "acceptable-use.md",
+            "label": "Acceptable Use Policy\r",
+            "position": 3,
+            "fullpath": "legal/tos/acceptable-use.md"
+          },
+          {
+            "leaf": "privacy-policy.md",
+            "label": "Privacy Policy\r",
+            "position": 4,
+            "fullpath": "legal/tos/privacy-policy.md"
+          },
+          {
+            "leaf": "README.md",
+            "position": null,
+            "fullpath": "legal/tos/README.md"
+          },
+          {
+            "leaf": "tos-long.md",
+            "label": "Detailed Terms of Service\r",
+            "position": 1,
+            "fullpath": "legal/tos/tos-long.md"
+          },
+          {
+            "leaf": "tos-simple.md",
+            "label": "Simple Terms of Service\r",
+            "position": 2,
+            "fullpath": "legal/tos/tos-simple.md"
+          }
+        ],
+        "items": []
+      },
+      {
+        "label": "Calculators",
+        "position": 16,
+        "path": "calculators",
+        "hasRootDoc": true,
+        "leaves": [
+          {
+            "leaf": "Headcount-Calculator.xlsx",
+            "position": null,
+            "fullpath": "legal/calculators/Headcount-Calculator.xlsx"
+          },
+          {
+            "leaf": "README.md",
+            "label": "Calculators\r",
+            "position": null,
+            "fullpath": "legal/calculators/README.md"
+          },
+          {
+            "leaf": "Stock-Allocation-Capitalization.xlsx",
+            "position": null,
+            "fullpath": "legal/calculators/Stock-Allocation-Capitalization.xlsx"
+          }
+        ],
+        "items": []
+      },
+      {
+        "label": "Miscellaneous",
+        "position": 17,
+        "path": "misc",
+        "hasRootDoc": true,
+        "leaves": [
+          {
+            "leaf": "dd.md",
+            "label": "Checklist\r",
+            "position": null,
+            "fullpath": "legal/misc/dd.md"
+          },
+          {
+            "leaf": "DPA-Assets.md",
+            "label": "Durable Power of Attorney for Asset Management\r",
+            "position": null,
+            "fullpath": "legal/misc/DPA-Assets.md"
+          },
+          {
+            "leaf": "README.md",
+            "label": "Miscellaneous\r",
+            "position": null,
+            "fullpath": "legal/misc/README.md"
+          }
+        ],
+        "items": []
+      },
+      {
+        "label": "Research",
+        "position": 18,
+        "path": "research",
+        "hasRootDoc": true,
+        "leaves": [
+          {
+            "leaf": "README.md",
+            "label": "Research\r",
+            "position": null,
+            "fullpath": "legal/research/README.md"
+          }
+        ],
+        "items": []
+      },
+      {
+        "label": "Our Policies",
+        "position": 19,
+        "path": "policies",
+        "hasRootDoc": true,
+        "leaves": [
+          {
+            "leaf": "entities.md",
+            "label": "Entities\r",
+            "position": 1,
+            "fullpath": "legal/policies/entities.md"
+          },
+          {
+            "leaf": "terms-of-service.md",
+            "label": "Terms of Service\r",
+            "position": 2,
+            "fullpath": "legal/policies/terms-of-service.md"
+          },
+          {
+            "leaf": "terms-of-service-application.md",
+            "label": "Treasury Terms of Service\r",
+            "position": 3,
+            "fullpath": "legal/policies/terms-of-service-application.md"
+          },
+          {
+            "leaf": "disclaimers.md",
+            "label": "Disclaimers\r",
+            "position": 4,
+            "fullpath": "legal/policies/disclaimers.md"
+          },
+          {
+            "leaf": "privacy-policy.md",
+            "label": "Privacy Policy\r",
+            "position": 5,
+            "fullpath": "legal/policies/privacy-policy.md"
+          },
+          {
+            "leaf": "README.md",
+            "label": "Our Policies\r",
+            "position": null,
+            "fullpath": "legal/policies/README.md"
+          }
+        ],
+        "items": []
+      }
+    ]
+  },
+  {
+    "label": "DAOLABS",
+    "position": 2,
+    "path": "daolabs",
+    "hasRootDoc": false,
+    "leaves": [],
+    "items": [
+      {
+        "label": "Introduction",
+        "position": 1,
+        "path": "intro",
+        "hasRootDoc": true,
+        "leaves": [
+          {
+            "leaf": "README.md",
+            "label": "DAOLABS\r",
+            "position": null,
+            "fullpath": "daolabs/intro/README.md"
+          }
+        ],
+        "items": []
+      },
+      {
+        "label": "Documentation",
+        "position": 2,
+        "path": "documentation",
+        "hasRootDoc": true,
+        "leaves": [
+          {
+            "leaf": "README.md",
+            "label": "Documentation\r",
+            "position": null,
+            "fullpath": "daolabs/documentation/README.md"
+          }
+        ],
+        "items": [
+          {
+            "label": "Contracts",
+            "position": 1,
+            "path": "contracts",
+            "hasRootDoc": true,
+            "leaves": [
+              {
+                "leaf": "juicebox-fork.md",
+                "label": "Juicebox Fork\r",
+                "position": 1,
+                "fullpath": "daolabs/documentation/contracts/juicebox-fork.md"
+              },
+              {
+                "leaf": "nftrewards.md",
+                "label": "Pay Delegates\r",
+                "position": 2,
+                "fullpath": "daolabs/documentation/contracts/nftrewards.md"
+              },
+              {
+                "leaf": "extensions.md",
+                "label": "Extensions\r",
+                "position": 3,
+                "fullpath": "daolabs/documentation/contracts/extensions.md"
+              },
+              {
+                "leaf": "auctions.md",
+                "label": "Auctions\r",
+                "position": 4,
+                "fullpath": "daolabs/documentation/contracts/auctions.md"
+              },
+              {
+                "leaf": "deployer.md",
+                "label": "Deployer\r",
+                "position": 5,
+                "fullpath": "daolabs/documentation/contracts/deployer.md"
+              },
+              {
+                "leaf": "nft.md",
+                "label": "NFT Features\r",
+                "position": 6,
+                "fullpath": "daolabs/documentation/contracts/nft.md"
+              },
+              {
+                "leaf": "README.md",
+                "label": "Contracts\r",
+                "position": null,
+                "fullpath": "daolabs/documentation/contracts/README.md"
+              }
+            ],
+            "items": []
+          },
+          {
+            "label": "Wallet",
+            "position": 1,
+            "path": "wallet",
+            "hasRootDoc": true,
+            "leaves": [
+              {
+                "leaf": "README.md",
+                "label": "Wallet Services\r",
+                "position": null,
+                "fullpath": "daolabs/documentation/wallet/README.md"
+              }
+            ],
+            "items": [
+              {
+                "label": "Auth Services",
+                "position": 1,
+                "path": "auth",
+                "hasRootDoc": true,
+                "leaves": [
+                  {
+                    "leaf": "README.md",
+                    "label": "Authentication Services\r",
+                    "position": null,
+                    "fullpath": "daolabs/documentation/wallet/auth/README.md"
+                  }
+                ],
+                "items": [
+                  {
+                    "label": "Anonymous",
+                    "position": 1,
+                    "path": "anon",
+                    "hasRootDoc": true,
+                    "leaves": [
+                      {
+                        "leaf": "README.md",
+                        "label": "Anonymous\r",
+                        "position": null,
+                        "fullpath": "daolabs/documentation/wallet/auth/anon/README.md"
+                      }
+                    ],
+                    "items": []
+                  },
+                  {
+                    "label": "Twitter",
+                    "position": 2,
+                    "path": "twitter",
+                    "hasRootDoc": true,
+                    "leaves": [
+                      {
+                        "leaf": "README.md",
+                        "label": "Twitter\r",
+                        "position": null,
+                        "fullpath": "daolabs/documentation/wallet/auth/twitter/README.md"
+                      }
+                    ],
+                    "items": []
+                  }
+                ]
+              },
+              {
+                "label": "Identity",
+                "position": 1,
+                "path": "wallets",
+                "hasRootDoc": false,
+                "leaves": [],
+                "items": [
+                  {
+                    "label": "Import",
+                    "position": 1,
+                    "path": "import",
+                    "hasRootDoc": true,
+                    "leaves": [
+                      {
+                        "leaf": "README.md",
+                        "label": "Importing Wallets\r",
+                        "position": null,
+                        "fullpath": "daolabs/documentation/wallet/wallets/import/README.md"
+                      }
+                    ],
+                    "items": []
+                  },
+                  {
+                    "label": "Payments",
+                    "position": 1,
+                    "path": "payments",
+                    "hasRootDoc": true,
+                    "leaves": [
+                      {
+                        "leaf": "README.md",
+                        "label": "Payment Services\r",
+                        "position": null,
+                        "fullpath": "daolabs/documentation/wallet/wallets/payments/README.md"
+                      }
+                    ],
+                    "items": []
+                  },
+                  {
+                    "label": "Create",
+                    "position": 2,
+                    "path": "create",
+                    "hasRootDoc": true,
+                    "leaves": [
+                      {
+                        "leaf": "README.md",
+                        "label": "Create Wallets\r",
+                        "position": null,
+                        "fullpath": "daolabs/documentation/wallet/wallets/create/README.md"
+                      }
+                    ],
+                    "items": []
+                  },
+                  {
+                    "label": "Export",
+                    "position": 3,
+                    "path": "export",
+                    "hasRootDoc": true,
+                    "leaves": [
+                      {
+                        "leaf": "README.md",
+                        "label": "Exporting Wallets\r",
+                        "position": null,
+                        "fullpath": "daolabs/documentation/wallet/wallets/export/README.md"
+                      }
+                    ],
+                    "items": []
+                  },
+                  {
+                    "label": "Gnosis",
+                    "position": 5,
+                    "path": "gnosis",
+                    "hasRootDoc": true,
+                    "leaves": [
+                      {
+                        "leaf": "README.md",
+                        "label": "Gnosis\r",
+                        "position": null,
+                        "fullpath": "daolabs/documentation/wallet/wallets/gnosis/README.md"
+                      }
+                    ],
+                    "items": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "User",
+            "position": 3,
+            "path": "user",
+            "hasRootDoc": true,
+            "leaves": [
+              {
+                "leaf": "README.md",
+                "label": "User Landing Page\r",
+                "position": null,
+                "fullpath": "daolabs/documentation/user/README.md"
+              }
+            ],
+            "items": [
+              {
+                "label": "Legal",
+                "position": 1,
+                "path": "legal",
+                "hasRootDoc": true,
+                "leaves": [
+                  {
+                    "leaf": "README.md",
+                    "label": "Legal\r",
+                    "position": null,
+                    "fullpath": "daolabs/documentation/user/legal/README.md"
+                  }
+                ],
+                "items": []
+              },
+              {
+                "label": "Splits",
+                "position": 2,
+                "path": "splits",
+                "hasRootDoc": true,
+                "leaves": [
+                  {
+                    "leaf": "README.md",
+                    "label": "Splits\r",
+                    "position": null,
+                    "fullpath": "daolabs/documentation/user/splits/README.md"
+                  }
+                ],
+                "items": []
+              },
+              {
+                "label": "Accounting",
+                "position": 3,
+                "path": "accounting",
+                "hasRootDoc": true,
+                "leaves": [
+                  {
+                    "leaf": "README.md",
+                    "label": "Accounting\r",
+                    "position": null,
+                    "fullpath": "daolabs/documentation/user/accounting/README.md"
+                  }
+                ],
+                "items": []
+              }
+            ]
+          },
+          {
+            "label": "Collections",
+            "position": 5,
+            "path": "collections",
+            "hasRootDoc": true,
+            "leaves": [
+              {
+                "leaf": "README.md",
+                "label": "Collections\r",
+                "position": null,
+                "fullpath": "daolabs/documentation/collections/README.md"
+              }
+            ],
+            "items": [
+              {
+                "label": "Editions",
+                "position": 1,
+                "path": "edition",
+                "hasRootDoc": true,
+                "leaves": [
+                  {
+                    "leaf": "README.md",
+                    "label": "Edition\r",
+                    "position": null,
+                    "fullpath": "daolabs/documentation/collections/edition/README.md"
+                  }
+                ],
+                "items": []
+              },
+              {
+                "label": "Image NFTs",
+                "position": 2,
+                "path": "image",
+                "hasRootDoc": true,
+                "leaves": [
+                  {
+                    "leaf": "README.md",
+                    "label": "Image NFTs\r",
+                    "position": null,
+                    "fullpath": "daolabs/documentation/collections/image/README.md"
+                  }
+                ],
+                "items": []
+              },
+              {
+                "label": "Music NFTs",
+                "position": 3,
+                "path": "music",
+                "hasRootDoc": true,
+                "leaves": [
+                  {
+                    "leaf": "README.md",
+                    "label": "Music NFTs\r",
+                    "position": null,
+                    "fullpath": "daolabs/documentation/collections/music/README.md"
+                  }
+                ],
+                "items": []
+              },
+              {
+                "label": "Video NFTs",
+                "position": 4,
+                "path": "video",
+                "hasRootDoc": true,
+                "leaves": [
+                  {
+                    "leaf": "README.md",
+                    "label": "Video NFTs\r",
+                    "position": null,
+                    "fullpath": "daolabs/documentation/collections/video/README.md"
+                  }
+                ],
+                "items": []
+              },
+              {
+                "label": "p5.js NFTs",
+                "position": 5,
+                "path": "p5.js",
+                "hasRootDoc": true,
+                "leaves": [
+                  {
+                    "leaf": "README.md",
+                    "label": "p5.js\r",
+                    "position": null,
+                    "fullpath": "daolabs/documentation/collections/p5.js/README.md"
+                  }
+                ],
+                "items": []
+              },
+              {
+                "label": "PFP NFTs",
+                "position": 6,
+                "path": "pfp",
+                "hasRootDoc": true,
+                "leaves": [
+                  {
+                    "leaf": "README.md",
+                    "label": "pfp\r",
+                    "position": null,
+                    "fullpath": "daolabs/documentation/collections/pfp/README.md"
+                  }
+                ],
+                "items": []
+              },
+              {
+                "label": "Pricing",
+                "position": 7,
+                "path": "pricing",
+                "hasRootDoc": true,
+                "leaves": [
+                  {
+                    "leaf": "README.md",
+                    "label": "Pricing\r",
+                    "position": null,
+                    "fullpath": "daolabs/documentation/collections/pricing/README.md"
+                  }
+                ],
+                "items": []
+              },
+              {
+                "label": "Deployed",
+                "position": 8,
+                "path": "deployed",
+                "hasRootDoc": true,
+                "leaves": [
+                  {
+                    "leaf": "README.md",
+                    "label": "Contract Deployment\r",
+                    "position": null,
+                    "fullpath": "daolabs/documentation/collections/deployed/README.md"
+                  }
+                ],
+                "items": []
+              }
+            ]
+          },
+          {
+            "label": "Projects",
+            "position": 5,
+            "path": "projects",
+            "hasRootDoc": false,
+            "leaves": [],
+            "items": [
+              {
+                "label": "Juicebox Protocol",
+                "position": 1,
+                "path": "juicebox",
+                "hasRootDoc": true,
+                "leaves": [
+                  {
+                    "leaf": "README.md",
+                    "label": "Juicebox Protocol User Interface\r",
+                    "position": null,
+                    "fullpath": "daolabs/documentation/projects/juicebox/README.md"
+                  }
+                ],
+                "items": []
+              },
+              {
+                "label": "Terminal",
+                "position": 2,
+                "path": "terminal",
+                "hasRootDoc": true,
+                "leaves": [
+                  {
+                    "leaf": "README.md",
+                    "label": "Terminal\r",
+                    "position": null,
+                    "fullpath": "daolabs/documentation/projects/terminal/README.md"
+                  }
+                ],
+                "items": []
+              },
+              {
+                "label": "Extensions",
+                "position": 3,
+                "path": "extensions",
+                "hasRootDoc": true,
+                "leaves": [
+                  {
+                    "leaf": "README.md",
+                    "label": "Extensions\r",
+                    "position": null,
+                    "fullpath": "daolabs/documentation/projects/extensions/README.md"
+                  }
+                ],
+                "items": [
+                  {
+                    "label": "Gnosis",
+                    "position": 1,
+                    "path": "gnosis",
+                    "hasRootDoc": true,
+                    "leaves": [
+                      {
+                        "leaf": "README.md",
+                        "label": "Gnosis\r",
+                        "position": null,
+                        "fullpath": "daolabs/documentation/projects/extensions/gnosis/README.md"
+                      }
+                    ],
+                    "items": []
+                  },
+                  {
+                    "label": "NFT-Rewards",
+                    "position": 2,
+                    "path": "nft-rewards",
+                    "hasRootDoc": true,
+                    "leaves": [
+                      {
+                        "leaf": "README.md",
+                        "label": "NFT Rewards\r",
+                        "position": null,
+                        "fullpath": "daolabs/documentation/projects/extensions/nft-rewards/README.md"
+                      }
+                    ],
+                    "items": []
+                  }
+                ]
+              },
+              {
+                "label": "Legal",
+                "position": 3,
+                "path": "legal",
+                "hasRootDoc": true,
+                "leaves": [
+                  {
+                    "leaf": "README.md",
+                    "label": "Legal Resources\r",
+                    "position": null,
+                    "fullpath": "daolabs/documentation/projects/legal/README.md"
+                  }
+                ],
+                "items": []
+              },
+              {
+                "label": "Governance",
+                "position": 4,
+                "path": "governance",
+                "hasRootDoc": true,
+                "leaves": [
+                  {
+                    "leaf": "README.md",
+                    "label": "Governance\r",
+                    "position": null,
+                    "fullpath": "daolabs/documentation/projects/governance/README.md"
+                  }
+                ],
+                "items": []
+              }
+            ]
+          },
+          {
+            "label": "Collection Examples",
+            "position": 6,
+            "path": "minter",
+            "hasRootDoc": true,
+            "leaves": [
+              {
+                "leaf": "edition.md",
+                "label": "Edition\r",
+                "position": 1,
+                "fullpath": "daolabs/documentation/minter/edition.md"
+              },
+              {
+                "leaf": "image.md",
+                "label": "Images\r",
+                "position": 2,
+                "fullpath": "daolabs/documentation/minter/image.md"
+              },
+              {
+                "leaf": "p5-js.md",
+                "label": "p5.js\r",
+                "position": 4,
+                "fullpath": "daolabs/documentation/minter/p5-js.md"
+              },
+              {
+                "leaf": "pfp.md",
+                "label": "pfp\r",
+                "position": 6,
+                "fullpath": "daolabs/documentation/minter/pfp.md"
+              },
+              {
+                "leaf": "README.md",
+                "label": "Collection Examples\r",
+                "position": null,
+                "fullpath": "daolabs/documentation/minter/README.md"
+              },
+              {
+                "leaf": "video.md",
+                "label": "Video\r",
+                "position": 3,
+                "fullpath": "daolabs/documentation/minter/video.md"
+              }
+            ],
+            "items": []
+          }
+        ]
+      },
+      {
+        "label": "DAO Governance",
+        "position": 3,
+        "path": "daos",
+        "hasRootDoc": true,
+        "leaves": [
+          {
+            "leaf": "README.md",
+            "label": "DAO Governance\r",
+            "position": null,
+            "fullpath": "daolabs/daos/README.md"
+          }
+        ],
+        "items": [
+          {
+            "label": "DAOLABS",
+            "position": 1,
+            "path": "daolabs",
+            "hasRootDoc": true,
+            "leaves": [
+              {
+                "leaf": "terms-of-service.md",
+                "label": "Terms of Service\r",
+                "position": 2,
+                "fullpath": "daolabs/daos/daolabs/terms-of-service.md"
+              },
+              {
+                "leaf": "terms-of-service-application.md",
+                "label": "Application Terms of Service\r",
+                "position": 3,
+                "fullpath": "daolabs/daos/daolabs/terms-of-service-application.md"
+              },
+              {
+                "leaf": "disclaimers.md",
+                "label": "Disclaimers\r",
+                "position": 4,
+                "fullpath": "daolabs/daos/daolabs/disclaimers.md"
+              },
+              {
+                "leaf": "DAOLABS_Token_Sale.md",
+                "label": "Terms and Conditions of Token Sale and Use\r",
+                "position": 5,
+                "fullpath": "daolabs/daos/daolabs/DAOLABS_Token_Sale.md"
+              },
+              {
+                "leaf": "README.md",
+                "label": "DAOLABS\r",
+                "position": null,
+                "fullpath": "daolabs/daos/daolabs/README.md"
+              }
+            ],
+            "items": []
+          },
+          {
+            "label": "Movement DAO",
+            "position": 2,
+            "path": "move",
+            "hasRootDoc": false,
+            "leaves": [],
+            "items": [
+              {
+                "label": "Intro",
+                "position": 1,
+                "path": "intro",
+                "hasRootDoc": true,
+                "leaves": [
+                  {
+                    "leaf": "contribute.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/move/intro/contribute.md"
+                  },
+                  {
+                    "leaf": "former.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/move/intro/former.md"
+                  },
+                  {
+                    "leaf": "genesis.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/move/intro/genesis.md"
+                  },
+                  {
+                    "leaf": "README.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/move/intro/README.md"
+                  }
+                ],
+                "items": []
+              },
+              {
+                "label": "Governance",
+                "position": 2,
+                "path": "governance",
+                "hasRootDoc": false,
+                "leaves": [
+                  {
+                    "leaf": "airdrop.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/move/governance/airdrop.md"
+                  },
+                  {
+                    "leaf": "contributions.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/move/governance/contributions.md"
+                  },
+                  {
+                    "leaf": "multisig.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/move/governance/multisig.md"
+                  },
+                  {
+                    "leaf": "process.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/move/governance/process.md"
+                  },
+                  {
+                    "leaf": "template.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/move/governance/template.md"
+                  }
+                ],
+                "items": []
+              },
+              {
+                "label": "Legal",
+                "position": 3,
+                "path": "legal",
+                "hasRootDoc": false,
+                "leaves": [
+                  {
+                    "leaf": "definitions.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/move/legal/definitions.md"
+                  },
+                  {
+                    "leaf": "guiding-principles.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/move/legal/guiding-principles.md"
+                  },
+                  {
+                    "leaf": "tos.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/move/legal/tos.md"
+                  }
+                ],
+                "items": []
+              },
+              {
+                "label": "Resources",
+                "position": 4,
+                "path": "resources",
+                "hasRootDoc": false,
+                "leaves": [
+                  {
+                    "leaf": "addresses.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/move/resources/addresses.md"
+                  },
+                  {
+                    "leaf": "code-of-conduct.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/move/resources/code-of-conduct.md"
+                  },
+                  {
+                    "leaf": "repositories.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/move/resources/repositories.md"
+                  },
+                  {
+                    "leaf": "strategies.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/move/resources/strategies.md"
+                  }
+                ],
+                "items": []
+              },
+              {
+                "label": "Meeting Minutes",
+                "position": 5,
+                "path": "meeting",
+                "hasRootDoc": true,
+                "leaves": [
+                  {
+                    "leaf": "20230131.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/move/meeting/20230131.md"
+                  },
+                  {
+                    "leaf": "README.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/move/meeting/README.md"
+                  }
+                ],
+                "items": []
+              },
+              {
+                "label": "Founding Proposals",
+                "position": 6,
+                "path": "proposals",
+                "hasRootDoc": true,
+                "leaves": [
+                  {
+                    "leaf": "mip-0000.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/move/proposals/mip-0000.md"
+                  },
+                  {
+                    "leaf": "mip-0001.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/move/proposals/mip-0001.md"
+                  },
+                  {
+                    "leaf": "mip-0002.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/move/proposals/mip-0002.md"
+                  },
+                  {
+                    "leaf": "mip-0003.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/move/proposals/mip-0003.md"
+                  },
+                  {
+                    "leaf": "mip-0004.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/move/proposals/mip-0004.md"
+                  },
+                  {
+                    "leaf": "mip-0005.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/move/proposals/mip-0005.md"
+                  },
+                  {
+                    "leaf": "mip-0006.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/move/proposals/mip-0006.md"
+                  },
+                  {
+                    "leaf": "mip-0007.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/move/proposals/mip-0007.md"
+                  },
+                  {
+                    "leaf": "mip-0008.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/move/proposals/mip-0008.md"
+                  },
+                  {
+                    "leaf": "mip-0009.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/move/proposals/mip-0009.md"
+                  },
+                  {
+                    "leaf": "mip-0010.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/move/proposals/mip-0010.md"
+                  },
+                  {
+                    "leaf": "mip-0011.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/move/proposals/mip-0011.md"
+                  },
+                  {
+                    "leaf": "mip-0012.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/move/proposals/mip-0012.md"
+                  },
+                  {
+                    "leaf": "mip-0013.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/move/proposals/mip-0013.md"
+                  },
+                  {
+                    "leaf": "mip-0014.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/move/proposals/mip-0014.md"
+                  },
+                  {
+                    "leaf": "mip-0015.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/move/proposals/mip-0015.md"
+                  },
+                  {
+                    "leaf": "mip-0016.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/move/proposals/mip-0016.md"
+                  },
+                  {
+                    "leaf": "mip-0017.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/move/proposals/mip-0017.md"
+                  },
+                  {
+                    "leaf": "mip-0018.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/move/proposals/mip-0018.md"
+                  },
+                  {
+                    "leaf": "mip-0019.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/move/proposals/mip-0019.md"
+                  },
+                  {
+                    "leaf": "mip-0020.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/move/proposals/mip-0020.md"
+                  },
+                  {
+                    "leaf": "mip-0021.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/move/proposals/mip-0021.md"
+                  },
+                  {
+                    "leaf": "mip-0022.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/move/proposals/mip-0022.md"
+                  },
+                  {
+                    "leaf": "mip-0023.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/move/proposals/mip-0023.md"
+                  },
+                  {
+                    "leaf": "README.md",
+                    "label": "Movement DAO Governance Index\r",
+                    "position": null,
+                    "fullpath": "daolabs/daos/move/proposals/README.md"
+                  }
+                ],
+                "items": []
+              }
+            ]
+          },
+          {
+            "label": "Peace DAO",
+            "position": 3,
+            "path": "peace",
+            "hasRootDoc": false,
+            "leaves": [],
+            "items": [
+              {
+                "label": "Intro",
+                "position": 1,
+                "path": "intro",
+                "hasRootDoc": true,
+                "leaves": [
+                  {
+                    "leaf": "donate.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/peace/intro/donate.md"
+                  },
+                  {
+                    "leaf": "join.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/peace/intro/join.md"
+                  },
+                  {
+                    "leaf": "README.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/peace/intro/README.md"
+                  }
+                ],
+                "items": [
+                  {
+                    "label": "Donate",
+                    "position": 1,
+                    "path": "donate",
+                    "hasRootDoc": false,
+                    "leaves": [
+                      {
+                        "leaf": "index.md",
+                        "position": null,
+                        "fullpath": "daolabs/daos/peace/intro/donate/index.md"
+                      },
+                      {
+                        "leaf": "juicebox0.png",
+                        "position": null,
+                        "fullpath": "daolabs/daos/peace/intro/donate/juicebox0.png"
+                      },
+                      {
+                        "leaf": "juicebox1.png",
+                        "position": null,
+                        "fullpath": "daolabs/daos/peace/intro/donate/juicebox1.png"
+                      },
+                      {
+                        "leaf": "metamask0.png",
+                        "position": null,
+                        "fullpath": "daolabs/daos/peace/intro/donate/metamask0.png"
+                      },
+                      {
+                        "leaf": "metamask1.png",
+                        "position": null,
+                        "fullpath": "daolabs/daos/peace/intro/donate/metamask1.png"
+                      }
+                    ],
+                    "items": []
+                  },
+                  {
+                    "label": "Join",
+                    "position": 1,
+                    "path": "join",
+                    "hasRootDoc": false,
+                    "leaves": [
+                      {
+                        "leaf": "discord0.png",
+                        "position": null,
+                        "fullpath": "daolabs/daos/peace/intro/join/discord0.png"
+                      },
+                      {
+                        "leaf": "discord1.png",
+                        "position": null,
+                        "fullpath": "daolabs/daos/peace/intro/join/discord1.png"
+                      },
+                      {
+                        "leaf": "discord2.png",
+                        "position": null,
+                        "fullpath": "daolabs/daos/peace/intro/join/discord2.png"
+                      },
+                      {
+                        "leaf": "discord3.png",
+                        "position": null,
+                        "fullpath": "daolabs/daos/peace/intro/join/discord3.png"
+                      },
+                      {
+                        "leaf": "index.md",
+                        "position": null,
+                        "fullpath": "daolabs/daos/peace/intro/join/index.md"
+                      }
+                    ],
+                    "items": []
+                  }
+                ]
+              },
+              {
+                "label": "Governance",
+                "position": 2,
+                "path": "governance",
+                "hasRootDoc": false,
+                "leaves": [
+                  {
+                    "leaf": "multisig.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/peace/governance/multisig.md"
+                  },
+                  {
+                    "leaf": "process.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/peace/governance/process.md"
+                  },
+                  {
+                    "leaf": "strategies.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/peace/governance/strategies.md"
+                  },
+                  {
+                    "leaf": "template.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/peace/governance/template.md"
+                  }
+                ],
+                "items": []
+              },
+              {
+                "label": "Legal",
+                "position": 3,
+                "path": "legal",
+                "hasRootDoc": false,
+                "leaves": [
+                  {
+                    "leaf": "addresses.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/peace/legal/addresses.md"
+                  },
+                  {
+                    "leaf": "guiding-principals.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/peace/legal/guiding-principals.md"
+                  },
+                  {
+                    "leaf": "membership-nft.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/peace/legal/membership-nft.md"
+                  },
+                  {
+                    "leaf": "tos.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/peace/legal/tos.md"
+                  }
+                ],
+                "items": []
+              },
+              {
+                "label": "Founding Proposals",
+                "position": 4,
+                "path": "proposals",
+                "hasRootDoc": false,
+                "leaves": [
+                  {
+                    "leaf": "peace-000.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/peace/proposals/peace-000.md"
+                  },
+                  {
+                    "leaf": "peace-001.md",
+                    "position": null,
+                    "fullpath": "daolabs/daos/peace/proposals/peace-001.md"
+                  }
+                ],
+                "items": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Copyright",
+        "position": 5,
+        "path": "copyright",
+        "hasRootDoc": true,
+        "leaves": [
+          {
+            "leaf": "branding.md",
+            "label": "Branding\r",
+            "position": 1,
+            "fullpath": "daolabs/copyright/branding.md"
+          },
+          {
+            "leaf": "application.md",
+            "label": "Application\r",
+            "position": 2,
+            "fullpath": "daolabs/copyright/application.md"
+          },
+          {
+            "leaf": "notices.md",
+            "label": "Example Notices\r",
+            "position": 3,
+            "fullpath": "daolabs/copyright/notices.md"
+          },
+          {
+            "leaf": "README.md",
+            "position": null,
+            "fullpath": "daolabs/copyright/README.md"
+          }
+        ],
+        "items": []
+      },
+      {
+        "label": "Our Policies",
+        "position": 6,
+        "path": "policies",
+        "hasRootDoc": true,
+        "leaves": [
+          {
+            "leaf": "disclaimers.md",
+            "label": "Disclaimers\r",
+            "position": 1,
+            "fullpath": "daolabs/policies/disclaimers.md"
+          },
+          {
+            "leaf": "move-terms-of-service.md",
+            "label": "MOVE Terms of Service\r",
+            "position": 2,
+            "fullpath": "daolabs/policies/move-terms-of-service.md"
+          },
+          {
+            "leaf": "terms-of-service-app.md",
+            "label": "DAOLABS Terms of Service\r",
+            "position": 3,
+            "fullpath": "daolabs/policies/terms-of-service-app.md"
+          },
+          {
+            "leaf": "terms-of-service.md",
+            "label": "Terms of Service\r",
+            "position": 4,
+            "fullpath": "daolabs/policies/terms-of-service.md"
+          },
+          {
+            "leaf": "DAOLABS_Token_Sale.md",
+            "label": "Terms and Conditions Re Tokens\r",
+            "position": 5,
+            "fullpath": "daolabs/policies/DAOLABS_Token_Sale.md"
+          },
+          {
+            "leaf": "move-gitbook-excerpts.md",
+            "label": "GitBook Excerpts\r",
+            "position": 5,
+            "fullpath": "daolabs/policies/move-gitbook-excerpts.md"
+          },
+          {
+            "leaf": "privacy-policy.md",
+            "label": "Privacy Policy\r",
+            "position": 5,
+            "fullpath": "daolabs/policies/privacy-policy.md"
+          },
+          {
+            "leaf": "README.md",
+            "label": "Our Policies\r",
+            "position": null,
+            "fullpath": "daolabs/policies/README.md"
+          }
+        ],
+        "items": [
+          {
+            "label": "GitBook History",
+            "position": 1,
+            "path": "gitbook-history",
+            "hasRootDoc": false,
+            "leaves": [],
+            "items": [
+              {
+                "label": "Branch Deployed",
+                "position": 1,
+                "path": "branch-deployed",
+                "hasRootDoc": false,
+                "leaves": [
+                  {
+                    "leaf": "faffle.md",
+                    "position": null,
+                    "fullpath": "daolabs/policies/gitbook-history/branch-deployed/faffle.md"
+                  },
+                  {
+                    "leaf": "obstacker.md",
+                    "position": null,
+                    "fullpath": "daolabs/policies/gitbook-history/branch-deployed/obstacker.md"
+                  },
+                  {
+                    "leaf": "ted.md",
+                    "position": null,
+                    "fullpath": "daolabs/policies/gitbook-history/branch-deployed/ted.md"
+                  }
+                ],
+                "items": []
+              },
+              {
+                "label": "Branch Main",
+                "position": 2,
+                "path": "branch-main",
+                "hasRootDoc": false,
+                "leaves": [
+                  {
+                    "leaf": "faffle.md",
+                    "position": null,
+                    "fullpath": "daolabs/policies/gitbook-history/branch-main/faffle.md"
+                  },
+                  {
+                    "leaf": "obstacker.md",
+                    "position": null,
+                    "fullpath": "daolabs/policies/gitbook-history/branch-main/obstacker.md"
+                  },
+                  {
+                    "leaf": "ted.md",
+                    "position": null,
+                    "fullpath": "daolabs/policies/gitbook-history/branch-main/ted.md"
+                  },
+                  {
+                    "leaf": "welton.md",
+                    "position": null,
+                    "fullpath": "daolabs/policies/gitbook-history/branch-main/welton.md"
+                  }
+                ],
+                "items": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Blog",
+        "position": 7,
+        "path": "blog",
+        "hasRootDoc": true,
+        "leaves": [
+          {
+            "leaf": "20230411.md",
+            "label": "April 11, 2023\r",
+            "position": 363,
+            "fullpath": "daolabs/blog/20230411.md"
+          },
+          {
+            "leaf": "20230201.md",
+            "label": "February 3, 2023\r",
+            "position": 364,
+            "fullpath": "daolabs/blog/20230201.md"
+          },
+          {
+            "leaf": "20230131.md",
+            "label": "January 31, 2023\r",
+            "position": 365,
+            "fullpath": "daolabs/blog/20230131.md"
+          },
+          {
+            "leaf": "README.md",
+            "label": "BLOG\r",
+            "position": null,
+            "fullpath": "daolabs/blog/README.md"
+          }
+        ],
+        "items": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+[
+	{
+		"name": "Entity-name",
+		"type": "text",
+		"label": "Corporation's Name (ALL CAPS)",
+		"placeholder": "ACME CORPORATION",
+		"value": "ACME CORPORATION"
+	},
+	{
+		"name": "Date",
+		"type": "date",
+		"label": "Date of Adoption",
+		"value": "2023-01-01"
+	}
+]

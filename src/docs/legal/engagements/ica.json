@@ -1,0 +1,119 @@
+[
+	{
+		"name": "Date",
+		"type": "date",
+		"label": "Agreement Date",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Entity-name",
+		"type": "text",
+		"label": "Hiring Entity's Name",
+		"placeholder": "ACME CORPORATION",
+		"value": "ACME CORPORATION"
+	},
+	{
+		"name": "Entity-type",
+		"type": "text",
+		"label": "Hiring Entity Type",
+		"placeholder": "Corporation",
+		"value": "Corporation"
+	},
+	{
+		"name": "Entity-contact-name",
+		"type": "text",
+		"label": "Hiring Entity Contact's Full Name",
+		"placeholder": "Mr. John Smith",
+		"value": "Mr. John Smith"
+	},
+	{
+		"name": "Entity-contact-email",
+		"type": "text",
+		"label": "Hiring Entity Contact's Email Address",
+		"placeholder": "wile@coyote.com",
+		"value": "wile@coyote.com"
+	},
+	{
+		"name": "Entity-address",
+		"type": "text",
+		"label": "Hiring Entity's Street Address",
+		"placeholder": "123 Main Street, Apt. 45",
+		"value": "123 Main Street, Apt. 45"
+	},
+	{
+		"name": "Entity-city",
+		"type": "text",
+		"label": "Hiring Entity's City",
+		"placeholder": "Kalamazoo",
+		"value": "Kalamazoo"
+	},
+	{
+		"name": "Entity-state",
+		"type": "text",
+		"label": "Hiring Entity's State",
+		"placeholder": "Michigan",
+		"value": "Michigan"
+	},
+	{
+		"name": "Entity-zip",
+		"type": "text",
+		"label": "Hiring Entity's ZIP Code",
+		"placeholder": "49001",
+		"value": "49001"
+	},
+	{
+		"name": "Consultant-name",
+		"type": "text",
+		"label": "Consultant's Full Name",
+		"placeholder": "Mrs. Jane Doe",
+		"value": "Mrs. Jane Doe"
+	},
+	{
+		"name": "Consultant-email",
+		"type": "text",
+		"label": "Consultant's Email Address",
+		"placeholder": "road@runner.org",
+		"value": "road@runner.org"
+	},
+	{
+		"name": "Consultant-dob",
+		"type": "date",
+		"label": "Consultant's Date of Birth (for Copyright Purposes)",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Consultant-nationality",
+		"type": "text",
+		"label": "Consultant's Nationality (for Copyright Purposes)",
+		"placeholder": "United States/American",
+		"value": "United States/American"
+	},
+	{
+		"name": "Consultant-project-name",
+		"type": "text",
+		"label": "Name of Relevant Project",
+		"placeholder": "ACME Explosives Online Store",
+		"value": "ACME Explosives Online Store"
+	},
+	{
+		"name": "Consultant-services",
+		"type": "text",
+		"label": "Description of Consultant's Services",
+		"placeholder": "Web designs for dynamite and other Wile E. Coyote products.",
+		"value": "Web designs for dynamite and other Wile E. Coyote products."
+	},
+	{
+		"name": "Consultant-hourly-rate",
+		"type": "number",
+		"label": "Consultant's Hourly Rate (USD)",
+		"placeholder": "10",
+		"value": "10"
+	},
+	{
+		"name": "Consultant-monthly-max",
+		"type": "number",
+		"label": "Consultant's Monthly Maximum (USD)",
+		"placeholder": "100",
+		"value": "100"
+	}
+]

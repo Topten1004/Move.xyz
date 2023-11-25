@@ -1,0 +1,43 @@
+[
+	{
+		"name": "Date",
+		"type": "date",
+		"label": "Date of Assignment",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Assignor-name",
+		"type": "text",
+		"label": "Assignor of the asset",
+		"placeholder": "ACME CORPORATION",
+		"value": "ACME CORPORATION"
+	},
+	{
+		"name": "Assignee-name",
+		"type": "text",
+		"label": "Corporation Representative's Full Name",
+		"placeholder": "Ms. Jane Doe",
+		"value": "Ms. Jane Doe"
+	},
+	{
+		"name": "Asset-name",
+		"type": "text",
+		"label": "Property/Asset name",
+		"placeholder": "Explosives",
+		"value": "Explosives"
+	},
+	{
+		"name": "Asset-percentage",
+		"type": "number",
+		"label": "Percentage of asset being assigned",
+		"placeholder": "100",
+		"value": "100"
+	},
+	{
+		"name": "Asset-details",
+		"type": "text",
+		"label": "Property/Asset name",
+		"placeholder": "Dynamite and other explosives",
+		"value": "Dynamite and other explosives"
+	}
+]

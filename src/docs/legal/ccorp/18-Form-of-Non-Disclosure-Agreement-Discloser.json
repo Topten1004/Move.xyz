@@ -1,0 +1,78 @@
+[
+	{
+		"name": "Date",
+		"type": "date",
+		"label": "Agreement Effective Date",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Entity-name",
+		"type": "text",
+		"label": "Corporation's Name (ALL CAPS)",
+		"placeholder": "ACME CORPORATION",
+		"value": "ACME CORPORATION"
+	},
+	{
+		"name": "Entity-signer-name",
+		"type": "text",
+		"label": "Entity Signer's Name",
+		"placeholder": "Mr. John Doe",
+		"value": "Mr. John Doe"
+	},
+	{
+		"name": "Entity-signer-role",
+		"type": "text",
+		"label": "Entity Signer's Role/Title",
+		"placeholder": "Chief Executive Officer",
+		"value": "Chief Executive Officer"
+	},
+	{
+		"name": "Recipient-name",
+		"type": "text",
+		"label": "Recipient's Full Name",
+		"placeholder": "Ms. Jane Doe",
+		"value": "Ms. Jane Doe"
+	},
+	{
+		"name": "Recipient-entity-name",
+		"type": "text",
+		"label": "Recipient Entity's Name (Same as Name if Individual)",
+		"placeholder": "Jane Doe LLC",
+		"value": "Jane Doe LLC"
+	},
+	{
+		"name": "Recipient-entity-type",
+		"type": "text",
+		"label": "Recipient Entity's Type",
+		"placeholder": "LLC, Individual, Corporation, etc.",
+		"value": "LLC, Individual, Corporation, etc."
+	},
+	{
+		"name": "Recipient-entity-address",
+		"type": "text",
+		"label": "Recipient Entity's Street Address",
+		"placeholder": "123 Main Street, Apt. 45",
+		"value": "123 Main Street, Apt. 45"
+	},
+	{
+		"name": "Recipient-entity-city",
+		"type": "text",
+		"label": "Recipient Entity's City",
+		"placeholder": "Kalamazoo",
+		"value": "Kalamazoo"
+	},
+	{
+		"name": "Recipient-entity-state",
+		"type": "text",
+		"label": "Recipient Entity's State",
+		"placeholder": "Michigan",
+		"value": "Michigan"
+	},
+	{
+		"name": "Recipient-role",
+		"type": "text",
+		"label": "Recipient's Role/Title",
+		"placeholder": "President",
+		"value": "President"
+	}
+]

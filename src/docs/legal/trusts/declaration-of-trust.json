@@ -1,0 +1,36 @@
+[
+	{
+		"name": "Date",
+		"type": "date",
+		"label": "Agreement Date",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Entity-name",
+		"type": "text",
+		"label": "Trust Name",
+		"placeholder": "Road Runner Preservation Trust",
+		"value": "Road Runner Preservation Trust"
+	},
+	{
+		"name": "Trustee-name",
+		"type": "text",
+		"label": "Trustee's Full Name",
+		"placeholder": "Mr. John Doe",
+		"value": "Mr. John Doe"
+	},
+	{
+		"name": "Beneficiary-name",
+		"type": "text",
+		"label": "Beneficiary's Full Name",
+		"placeholder": "Mrs. Jane Doe",
+		"value": "Mrs. Jane Doe"
+	},
+	{
+		"name": "Property-description",
+		"type": "text",
+		"label": "Trust Property Description",
+		"placeholder": "500 rubber bands; 2 tennis balls; and 7 cryptopunks",
+		"value": "500 rubber bands; 2 tennis balls; and 7 cryptopunks"
+	}
+]

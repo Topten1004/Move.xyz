@@ -1,0 +1,44 @@
+[
+	{
+		"name": "Entity-name",
+		"type": "text",
+		"label": "LLC's Name",
+		"placeholder": "Acme LLC",
+		"value": "Acme LLC"
+	},
+	{
+		"name": "Date",
+		"type": "text",
+		"label": "Agreement Effective Date",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Administrative-member-name",
+		"type": "text",
+		"label": "Administrative Member's Full Name",
+		"placeholder": "Ms. Jane Doe",
+		"value": "Ms. Jane Doe"
+	},
+	{
+		"name": "Member-name",
+		"type": "text",
+		"label": "Member's Full Name",
+		"placeholder": "Mr. John Doe",
+		"value": "Mr. John Doe"
+	},
+	{
+		"name": "Contract-address",
+		"type": "text",
+		"label": "Contract-address",
+		"placeholder": "0x0000000000000000000000000000000000000000",
+		"value": "0x0000000000000000000000000000000000000000",
+		"pattern": "^0x[a-fA-F0-9]{40}$"
+	},
+	{
+		"name": "Entity-purpose",
+		"type": "text",
+		"label": "LLC's Purpose",
+		"placeholder": "To manufacture and distribute explosives to Wile E. Coyote.",
+		"value": "To manufacture and distribute explosives to Wile E. Coyote."
+	}
+]

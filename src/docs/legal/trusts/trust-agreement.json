@@ -1,0 +1,71 @@
+[
+	{
+		"name": "Date",
+		"type": "date",
+		"label": "Agreement Date",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Entity-name",
+		"type": "text",
+		"label": "Trust Name",
+		"placeholder": "Road Runner Preservation Trust",
+		"value": "Road Runner Preservation Trust"
+	},
+	{
+		"name": "Entity-city",
+		"type": "text",
+		"label": "Trust City",
+		"placeholder": "Kalamazoo",
+		"value": "Kalamazoo"
+	},
+	{
+		"name": "Entity-state",
+		"type": "text",
+		"label": "Trust State",
+		"placeholder": "Michigan",
+		"value": "Michigan"
+	},
+	{
+		"name": "Grantor-name",
+		"type": "text",
+		"label": "Grantor's Full Name",
+		"placeholder": "Mr. John Doe",
+		"value": "Mr. John Doe"
+	},
+	{
+		"name": "Trustee-name",
+		"type": "text",
+		"label": "Trustee's Full Name",
+		"placeholder": "Mrs. Jane Doe",
+		"value": "Mrs. Jane Doe"
+	},
+	{
+		"name": "Beneficiary-name",
+		"type": "text",
+		"label": "Beneficiary individual(s) or organization(s)",
+		"placeholder": "Mr. John and Jane Doe; ACME CORPORATION; and Acme LLC.",
+		"value": "Mr. John and Jane Doe; ACME CORPORATION; and Acme LLC."
+	},
+	{
+		"name": "Notary-city",
+		"type": "text",
+		"label": "Notary City",
+		"placeholder": "Wichita",
+		"value": "Wichita"
+	},
+	{
+		"name": "Notary-county",
+		"type": "text",
+		"label": "Notary's County",
+		"placeholder": "Sedgwick County",
+		"value": "Sedgwick County"
+	},
+	{
+		"name": "Notary-state",
+		"type": "text",
+		"label": "Notary's State",
+		"placeholder": "Kansas",
+		"value": "Kansas"
+	}
+]

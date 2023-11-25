@@ -1,0 +1,51 @@
+[
+	{
+		"name": "Entity-name",
+		"type": "text",
+		"label": "Corporation's Name (ALL CAPS)",
+		"placeholder": "ACME CORPORATION",
+		"value": "ACME CORPORATION"
+	},
+	{
+		"name": "Entity-address",
+		"type": "text",
+		"label": "Corporation's Street Address",
+		"placeholder": "123 Main Street, Apt. 45",
+		"value": "123 Main Street, Apt. 45"
+	},
+	{
+		"name": "Entity-city",
+		"type": "text",
+		"label": "Corporation's City",
+		"placeholder": "Kalamazoo",
+		"value": "Kalamazoo"
+	},
+	{
+		"name": "Entity-state",
+		"type": "text",
+		"label": "Corporation's State",
+		"placeholder": "Michigan",
+		"value": "Michigan"
+	},
+	{
+		"name": "Entity-zip",
+		"type": "text",
+		"label": "Corporation's ZIP Code",
+		"placeholder": "49001",
+		"value": "49001"
+	},
+	{
+		"name": "Annual-meeting-year",
+		"type": "number",
+		"label": "Year of First Annual Meeting",
+		"placeholder": "2023",
+		"value": "2023"
+	},
+	{
+		"name": "Annual-meeting-month-day",
+		"type": "text",
+		"label": "Month and Day of Annual Meeting",
+		"placeholder": "September 1st",
+		"value": "September 1st"
+	}
+]

@@ -1,0 +1,147 @@
+[
+	{
+		"name": "Entity-name",
+		"type": "text",
+		"label": "Corporation's Name (ALL CAPS)",
+		"placeholder": "ACME CORPORATION",
+		"value": "ACME CORPORATION"
+	},
+	{
+		"name": "Consultant-name",
+		"type": "text",
+		"label": "Consultant's Full Name",
+		"placeholder": "Mr. John Doe",
+		"value": "Mr. John Doe"
+	},
+	{
+		"name": "Consultant-address",
+		"type": "text",
+		"label": "Consultant's Address",
+		"placeholder": "123 Main Street, Apt. 45",
+		"value": "123 Main Street, Apt. 45"
+	},
+	{
+		"name": "Consultant-role",
+		"type": "text",
+		"label": "Consultant's Role/Title",
+		"placeholder": "Consultant",
+		"value": "Consultant"
+	},
+	{
+		"name": "Contact-name",
+		"type": "text",
+		"label": "Corporation Contact's Full Name",
+		"placeholder": "Ms. Jane Doe",
+		"value": "Mr. Jane Doe"
+	},
+	{
+		"name": "Contact-role",
+		"type": "text",
+		"label": "Corporation Contact's Role/Title",
+		"placeholder": "Chief Executive Officer",
+		"value": "Chief Executive Officer"
+	},
+	{
+		"name": "Contact-email",
+		"type": "text",
+		"label": "Corporation Contact's Email Address",
+		"placeholder": "jane@acme.co",
+		"value": "jane@acme.co"
+	},
+	{
+		"name": "Date",
+		"type": "date",
+		"label": "Agreement Effective Date",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Consultant-services",
+		"type": "text",
+		"label": "Description of Consultant's Services",
+		"placeholder": "Manufacturing and distribution of explosive tennis balls",
+		"value": "Manufacturing and distribution of explosive tennis balls"
+	},
+	{
+		"name": "Pay-amount",
+		"type": "number",
+		"label": "IF FLAT PAY: Payment Amount upon Receipt/Acceptance of Services (USD)",
+		"placeholder": "100",
+		"value": "100"
+	},
+	{
+		"name": "Hourly-rate",
+		"type": "number",
+		"label": "IF HOURLY PAY: Hourly Payment Rate (USD)",
+		"placeholder": "100",
+		"value": "100"
+	},
+	{
+		"name": "Max-weekly-hours",
+		"type": "number",
+		"label": "IF HOULRY PAY: Maximum Weekly Billable Hours",
+		"placeholder": "100",
+		"value": "100"
+	},
+	{
+		"name": "Share-amount",
+		"type": "number",
+		"label": "IF GRANTING STOCK OPTION: Number of Optional Shares Granted to Consultant",
+		"placeholder": "100",
+		"value": "100"
+	},
+	{
+		"name": "Share-vesting-years",
+		"type": "number",
+		"label": "Number of Years for Shares to Vest",
+		"placeholder": "1",
+		"value": "1"
+	},
+	{
+		"name": "Plan-year",
+		"type": "number",
+		"label": "Year of the Plan",
+		"placeholder": "2023",
+		"value": "2023"
+	},
+	{
+		"name": "Exhibit-a-date",
+		"type": "date",
+		"label": "Exhibit A Agreement Date",
+		"value": "2023-01-01"
+	},
+	{
+		"name": "Service-provider-name",
+		"type": "text",
+		"label": "Service Provider's Full Name",
+		"placeholder": "Ms. Jane Doe, Esq.",
+		"value": "Ms. Jane Doe, Esq."
+	},
+	{
+		"name": "Service-provider-relation",
+		"type": "text",
+		"label": "Service Provider's Relation to Consultant",
+		"placeholder": "Counsel",
+		"value": "Counsel"
+	},
+	{
+		"name": "Service-provider-title",
+		"type": "text",
+		"label": "Service Provider's Title",
+		"placeholder": "Counsel",
+		"value": "Counsel"
+	},
+	{
+		"name": "Entity-signer-name",
+		"type": "text",
+		"label": "Corporation Signer's Name",
+		"placeholder": "Mr. John Doe",
+		"value": "Mr. John Doe"
+	},
+	{
+		"name": "Entity-signer-title",
+		"type": "text",
+		"label": "Corporation Signer's Title",
+		"placeholder": "Secretary",
+		"value": "Secretary"
+	}
+]

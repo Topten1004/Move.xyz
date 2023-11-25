@@ -1,0 +1,78 @@
+[
+	{
+		"name": "Entity-name",
+		"type": "text",
+		"label": "Corporation's Name (ALL CAPS) (ALL CAPs)",
+		"placeholder": "ACME CORPORATION",
+		"value": "ACME CORPORATION"
+	},
+	{
+		"name": "Counsel-name",
+		"type": "text",
+		"label": "Corporation's Counsel's Name",
+		"placeholder": "Looney & Looney LLP",
+		"value": "Looney & Looney LLP"
+	},
+	{
+		"name": "Director-name",
+		"type": "text",
+		"label": "Director's Full Name",
+		"placeholder": "Ms. Jane Doe",
+		"value": "Ms. Jane Doe"
+	},
+	{
+		"name": "Plan-year",
+		"type": "text",
+		"label": "Year of Equity Incentive Plan and Agreement",
+		"placeholder": "2023",
+		"value": "2023"
+	},
+	{
+		"name": "Purchaser-name",
+		"type": "text",
+		"label": "Purchaser's Full Name",
+		"placeholder": "Mr. John Doe",
+		"value": "Mr. John Doe"
+	},
+	{
+		"name": "Share-number",
+		"type": "number",
+		"label": "Total Number of Shares",
+		"placeholder": "100",
+		"value": "100"
+	},
+	{
+		"name": "Share-purchase-price",
+		"type": "number",
+		"label": "Total Share Purchase Price (USD)",
+		"placeholder": "100",
+		"value": "100"
+	},
+	{
+		"name": "Share-price",
+		"type": "number",
+		"label": "Price Per Share (USD)",
+		"placeholder": "1",
+		"value": "1"
+	},
+	{
+		"name": "Entity-address",
+		"type": "text",
+		"label": "Address of the Principal Executive Office of the Company",
+		"placeholder": "123 Main Street, Apt. 45, Kalamazoo, Michigan 49001",
+		"value": "123 Main Street, Apt. 45, Kalamazoo, Michigan 49001"
+	},
+	{
+		"name": "Share-reserve",
+		"type": "number",
+		"label": "Number of Shares Reserved for Issuance Under the Plan",
+		"placeholder": "100",
+		"value": "100"
+	},
+	{
+		"name": "Date",
+		"type": "date",
+		"label": "Agreement Date",
+		"value": "2023-01-01"
+	}
+]
